@@ -1,0 +1,1699 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --    1219 -->
+    <!ENTITY bdquo  CDATA "&#x201E;"  --     493 -->
+    <!ENTITY fnof   CDATA "&#x0192;"  --       2 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --      55 -->
+    <!ENTITY nbsp   CDATA "&#x00A0;"  --       2 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       2 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --     493 -->
+
+]>
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title nfc=3>&apos;n Jodenstreek?</title>
+<author key="Heijermans, Herman" ref="https://viaf.org/viaf/32107862/">Herman Heijermans (1864&ndash;1924)</author>
+<respStmt><resp lang=en>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20230305100532heijermans</idno>
+<idno type=PGDPProjectId>projectID6405f68b6726f</idno>
+<idno type=PGSrc>70876-Heijermans-Jodenstreek</idno>
+<idno type=epub-id>urn:uuid:8100f36d-ee1f-4ed3-ab76-66faa963d265</idno>
+<idno type=PGnum>70876</idno>
+<date>2023-05-28</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type=Credits>Geproduceerd door Jeroen Hellingman en het Online Distributed Proofreading Team op https://www.pgdp.net/ voor Project Gutenberg.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Herman Heijermans Jr.</author>
+<title>&apos;n Jodenstreek?</title>
+<date>1904</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+    <p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.</p>
+
+    <tagsDecl lang=xx>
+        <rendition selector=.small>font-size: small;</rendition>
+        <rendition selector=.large>font-size: large;</rendition>
+        <rendition selector=.vam>vertical-align: middle;</rendition>
+        <rendition selector=.center>text-align: center;</rendition>
+    </tagsDecl>
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+        <language id=fr>Frans</language>
+        <language id=la>Latijn</language>
+        <language id=da>Deens</language>
+        <language id=he-Latn>Hebreeuws (Latijns schrift)</language>
+        <language id=xx>Geen taalkundige inhoud</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2023-05-26 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/frontcover.jpg)"> <figDesc>Oorspronkelijke voorkant.</figDesc> </figure>
+
+
+
+
+<pb id=pb.i facs="f:001">
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="center large">&apos;N JODENSTREEK?
+
+
+
+<pb id=pb.iii facs="f:002">
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)"> <figDesc>Oorspronkelijke titelpagina.</figDesc> </figure>
+
+
+
+<titlePage>
+<docTitle><titlePart>&apos;N JODENSTREEK?</titlePart></docTitle>
+
+<byline>DOOR
+<lb><docAuthor>HERM. HEIJERMANS <hi rend=sc>Jr.</hi></docAuthor>
+</byline>
+
+<docImprint>TWEEDE DRUK
+
+<lb>AMSTERDAM
+<lb>H. J. W. BECHT
+<lb><docDate>1904</docDate>
+</docImprint>
+</titlePage>
+
+
+
+<pb id=pb.iv facs="f:003">
+<div1 id=imprint type=Imprint>
+
+
+<p rend="center small">BOEK-, COURANT- EN STEENDRUKKERIJ G. J. THIEME, NIJMEGEN.
+
+
+
+
+<pb id=pb1 n=1 facs="f:004">
+</front>
+<body>
+<div1 id=ch1 n=I type=Chapter>
+<head type=super>&apos;N JODENSTREEK?</head>
+
+<head>I.</head>
+
+
+<p>Donderdag te Rotterdam. In de steeg voor &apos;t Stadhuis een oppropping van sleeperswagens, boerenkarretjes, trouwkoetsen. De ruwe, bruine kerels op de wiebelende bokken der lage, plompe voertuigen rukken nijdig-vloekend, aan de teugels, dat de bekken der paarden in rimpelige krullen naar achteren dreigen te barsten.
+
+<p>Een boer, de groote voeten in klompen, waaruit stekelig-harde hooibossen opschieten, schreeuwt met hoogrood, bol gezicht en kwaadaardige, kantige gebaren, tegen een viezen <pb id=pb2 n=2 facs="f:005">slagersjongen, die met z&apos;n bloederigen handwagen in de klit verward zit. Angstig loerend, kijkt de koetsier van de helderblinkende trouwkoets opzij, vol vrees aangereden te worden. Nieuwsgierigen luieren op de stoepen aan de overzij, kijken lachend toe bij &apos;t lawaai. Nu mengt zich een agent in de volte. Kalm de driftige uiteenzettingen van een half dozijn stemmen aanhoorend, geeft hij korte bevelen, pakt de teugels van &apos;t voorste beest aan; een klein gesteiger, geknars van hoeven, geschrap over de keien, een aanzetten van den voerman: het kluwen wikkelt zich dreunend, vloekend, schor-gillend af en de menigte, teleurgesteld in haar belustheid op ongelukken en vechtpartijen, kruipt en dringt nu weer om den ingang van &apos;t stadhuis. De bruiloftskoetsier herneemt z&apos;n deftig-stijve houding, de zweep steil naar boven gestoken, &apos;t dikke uiteinde rustend in de zij. Een onoogelijke dot gele bloemen hangt op zijn borst. Aan de kopstellen der <pb id=pb3 n=3 facs="f:006">paarden slingeren lintjes, veelkleurig, vastgehouden door bonte rosetjes.
+
+<p>Al de nieuwsgierige hoofden en de kastjes met trouwberichten aan de deurposten, spiegelen zich in dwaze, dik-uitpuilende glimvormen in de blinkende wanden en glinsterende, gebogen ruiten der koets. Van de treeplank is de palfrenier gesprongen&mdash;kleiner lijkend onder zijn hoogen, wijdrandschen hoed&mdash;en houdt den knop van de koetsdeur met zijn grove hand vast. Dikke plooien en rimpels van den te grooten wit-gelen, beduimelden handschoen liggen &apos;r om heen. Op de stoep voor den ingang staat een agent met vergrijsde, zilveren haren.
+
+<p>Daar openen zich de binnendeuren. &apos;t Midden houdend van den breeden looper, vertoont zich het bruidspaar, gevolgd door de getuigen. Van achteren komt er gisting in de menigte, men dringt nieuwsgierig op. Bijna rakelings gaan bruid en bruigom voorbij, hinderlijk aangekeken. De ouderwetsche juffrouw <pb id=pb4 n=4 facs="f:007">van &apos;t stadhuis houdt den sleep op. De jonge vrouw stijgt in, bleek, met vochtige oogen. De jonge man volgt. Als hij bukt om in te stappen, stoot hij in de zenuwachtige haast van &apos;t oogenblik, zijn hoogen hoed tegen den bovenrand der koets, dat er een deuk in komt. Een straatjongen lacht hardop. Een ander roept ginnegappend, terwijl de deur dichtvalt: &bdquo;Nah, &apos;t is maar &apos;n jodenhoed!...&rdquo; en de menigte giegelt.
+
+<p>De palfrenier is intusschen op de treeplank gesprongen, houdt zich waggelend aan de roode koorden vast; de koets zet zich in beweging, ratelt snel weg door de drukke, rumoerige straten.
+
+<milestone unit=tb>
+
+<p>In de kleine, warme, zwaar-gevoerde ruimte van &apos;t voertuigje zitten ze naast elkander. Geen woord wordt er gesproken. Beiden zijn te vol van de plechtige stemming van &apos;t oogenblik. Het reutelend gehamer van de wielen over de oneffen keien, het gegons van de <pb id=pb5 n=5 facs="f:008">dreunende koets, het gerinkel en geklapper der ruiten, het voorbijschieten der schimmen van voorbijgangers, is als een bedwelmende roes om hen heen. Alleen heeft zijn hand de hare gevonden in &apos;t geglibber van &apos;t satijnen kleed; door de handschoenen deelt zich een uitstralende warmte mede. Een zachte druk, telkens herhaald en beantwoord, geeft hun &apos;t weldadig juichend gevoel, dat ze elkander toebehooren, dat ze jong zijn, levenslustig, dat éénzelfde gloed van liefde in hen optrilt.... dat ze &apos;t doel bereikt hebben. Mollig zit zij in &apos;t rugkussen weggedoken, in de deinende schokking van &apos;t rijtuig op en neer gewiegd, zich overgevend aan de elastische schommeling, die een weelderig gevoel van bevrediging over haar brengt. En toch....
+
+<p>Hij tuurt naar de ruitjes van &apos;t vloerkleedje, telt ze, ziet ze op en neer huppelen naast zijn glimmende laarzen; nu en dan ziet hij de huizen wegdwarrelen in een radde <pb id=pb6 n=6 facs="f:009">opeenvolging van lijntjes en kleurtjes, en al maar door voelt hij de warmte van haar kleine handje, poezelig weggedoken, rustend in de zijne. Tegen &apos;t eind van den rit ontwaken ze. Hij kijkt haar aan met een langen passie-vollen blik, drukt de kleine hand hartstochtelijk en fluistert heel zacht alleen haar naam. In dat &bdquo;Dora!&rdquo;.... ligt alles besloten, een wereld, een lijdensgeschiedenis.
+
+
+
+
+
+<pb id=pb7 n=7 facs="f:010">
+<div1 id=ch2 n=II>
+<head>II.</head>
+
+
+<p>&bdquo;D&apos;r komt niks van in! Zet &apos;t gerust uit je hoofd!&rdquo;
+
+<p>&bdquo;Vader &apos;k hou van &apos;m. &apos;k Geef d&apos;r niks om, dat-ie &apos;n jood is. Wees er nou niet tegen....&rdquo;
+
+<p>&bdquo;Laten we over wat anders spreken, hè? &apos;k Hou niet van die onderwerpen.... Een jood.... &apos;n jood!....&rdquo;
+
+<p>&bdquo;&apos;t Is &apos;n nette jongen. Wat kan &apos;t u schelen, als &apos;k &apos;m hébben wil?....&rdquo;
+
+<p>&bdquo;Jij &apos;m hebben wil? Maar <hi>ik</hi> wil &apos;m niet, versta je? Ben jij die geschiedenis van je grootvader vergeten, zeg? Ik niet, nooit! Maak m&apos;n <pb id=pb8 n=8 facs="f:011">bloed niet an &apos;t koken. &apos;t Gebeurt niet! Basta en geen woord meer!&rdquo;
+
+<p>&bdquo;Nee vader. &apos;k Wil spreken. &apos;k Ben geen kind meer.... Grootvader had net zoo goed door &apos;n ander bedrogen kunnen worden.... Als je niet &bdquo;ja&rdquo; zegt, wacht &apos;k tot &apos;k meerderjarig ben....&rdquo;
+
+<p>&bdquo;Dat zul je niet!&rdquo;
+
+<p>&bdquo;Dat zal ik wèl!&rdquo;
+
+<p>&bdquo;Dat zul je niet!&rdquo;
+
+<p>Dreigend bleven ze tegenover elkander staan. Een pijnlijke pauze.
+
+<p>&bdquo;Vader wor nou niet driftig.... Wil je me dood maken?...&rdquo;
+
+<p>Langzaam begon ze te schreien. Opgewonden liep hij op en neer, bleef toen voor haar staan, de handen diep in de broekzakken begraven. Hakkelend kwamen de woorden uit zijn mond in ongeduldig tempo.
+
+<p>.... &bdquo;Jij wou &apos;n jood trouwen, jij! Al was dat nooit met m&apos;n vader gebeurd, most je voelen, most je voelen, zeg ik, dat &apos;n Christenvrouw <pb id=pb9 n=9 facs="f:012">zich zóo niet vergooit!... Weet jij wat joden zijn? Een vreemd ras, schacheraars, afzetters, bloedzuigers, &apos;n volk van dieven! Al d&apos;r streken hebben ze meegebracht. Die raken ze nooit kwijt! Joden zijn.... zijn.... Maak me niet dol! Een smous heeft m&apos;n vader geruïneerd!... Laat-ie d&apos;r een nemen van z&apos;n eigen ras met een hobbelneus! Wou jij op z&apos;n &bdquo;Sjabbes&rdquo; met &apos;m wandelen op &apos;t Blaakie? Nooit! Verdomd nooit!...&rdquo;,&mdash;en de vuist kwam met een bonzenden slag op de tafel neer.
+
+<p>&bdquo;Je kunt niet an &apos;m zien dat-ie &apos;t is. Hij is beschaafder dan....&rdquo;
+
+<p>&bdquo;Hou maar op! Hou op! &apos;k ken die kunsten! Spekulatie op je centen. D&apos;r komt niks van in....&rdquo;
+
+<p>&bdquo;Geen spekulatie vader. Hij &apos;s zelf rijk, heel rijk...&rdquo;
+
+<p>&bdquo;Huil nou maar niet verder.... Meisjesgrillen! Overmorgen bè-je &apos;t vergeten, lach j&apos;r zelf om.... &apos;k Zal je moeder bij je sturen.... Nou, lach-ie weer?....&rdquo;
+
+<pb id=pb10 n=10 facs="f:013"><p>Ze lachte niet, sprak ook niet verder tegen.
+
+<milestone unit=tb>
+
+<p>De moeder, een bekrompen, spichtig vrouwtje, stoof kort daarna binnen. &apos;t Was Dora&apos;s stiefmoeder. De eerste vrouw was lang dood, begraven, vergeten. In &apos;t kleine hoofd der tweede moeder leefden drie genegenheden: haar kerk, haar man, haar stiefdochter. De eerste vervulde haar iederen Zondag met een gedweeë tevredenheid, met een stemming om iedereen goed te doen. Ze was een onbeduidend zieltje, voor geen passie vatbaar, niet in staat een groote fout te begaan, een door en door fatsoenlijk menschje. Haar geloof vereenzelvigde ze met God, God met de vormen. In niets kende ze overdrijving. Alles ging bij haar in een gemakkelijke, burgerlijke regelmaat, in een leeg, welbehagelijk voortleven, in een ontginnen van kleine genotjes. Als er geen kerk geweest was, had ze misschien nooit gebeden. Haar verstand klampte zich vast aan wat ze als kind geleerd had. <pb id=pb11 n=11 facs="f:014">Om andere meeningen glimlachte ze goedig, zonder boosheid. Wat ze niet begreep, veroordeelde ze, zonder heftigheid. Ze was een willoos, in de vormpjes gekneed vrouwtje, bescheiden weldoend, uren doorbabbelend over nietigheden met een geduldige bedrijvigheid. Den man, die haar genomen had met koel verstandig overleg, om een huishoudster, een verpleegster voor zijn dochtertje te hebben, aanbad ze&mdash;voor zoover haar bedaard wezen dat kon&mdash;met de dankbare onderworpenheid van een hond. Hij beheerschte haar. Zijn grove wil, zijn opvliegendheid, zijn harde stem biologeerden &apos;t schuchter menschje. Nooit had ze zich tegen hem verzet. Als hij thuis kwam van zijn zaken en zijn laarzen krakend door de gang klonken, keek ze naar de deur tot hij binnenkwam. Voor &apos;t achtjarig dochtertje was ze eerst bang geweest, had &apos;t vertroeteld, verwend, om &apos;t aan zich te hechten: was er heelemaal van gaan houden, toen ze zelf geen <pb id=pb12 n=12 facs="f:015">kinderen kreeg. De warmte, om een schepseltje van eigen vleesch en bloed te koesteren en te verkneuteren&mdash;de behoefte van elke vrouw&mdash;had ze overgedragen op &apos;t vreemde kind. Dora had nooit de eerste moeder gemist. Tusschen stiefmoeder en dochter heerschte de eigenaardige verhouding, die van zelf volgt, als &apos;t kind meer ontwikkeld is en daardoor eene zekere meerderheid verkregen heeft. Dora&apos;s raad werd bij alles gevraagd. Ze moest beslissen tot zelfs in kleinigheden. Ze vertegenwoordigde den wil in &apos;t zwakke karakter der stiefmoeder. Zelfs had de driftigheid, die ze van haar vader erfde, nog nooit tot botsingen met &apos;t goedig menschje aanleiding gegeven.
+
+<p>&bdquo;Dora, kind, wat hoor ik daar!.... Heb jij je zinnen op &apos;n jood gezet.... Hoe kom je dàar nu toe?....&rdquo;
+
+<p>Die laatste vraag drukte de heele wereld van verbazing uit, die er in &apos;t kleine hoofdje woelde.
+
+<pb id=pb13 n=13 facs="f:016"><p>&bdquo;Ik hou van &apos;m, da&apos;s alles....&rdquo;
+
+<p>&bdquo;Zie je kindlief, dat komt er van, als de menschen niet naar de kerk gaan.... Wel! Wel! Vader wil &apos;r niets van weten. Da-kon je ook wel begrijpen. En hij heeft groot gelijk. &apos;t Is heel ongodsdienstig met iemand van ander geloof te trouwen....&rdquo;
+
+<p>&bdquo;&apos;k Hou van &apos;m....&rdquo;
+
+<p>&bdquo;Ja maar....&rdquo;
+
+<p>....&bdquo;Als vader &apos;n jood was geweest, had j&apos;m dan genomen?....&rdquo;
+
+<p>....&bdquo;Da&apos;s gekkepraat.... da-was die niet....&rdquo;
+
+<p>&bdquo;&apos;n Jood is toch óók &apos;n mensch....&rdquo;
+
+<p>&bdquo;Jawel, jawel....&rdquo;
+
+<p>&bdquo;&apos;k Neem &apos;m..... &apos;k zal wachten!&rdquo;
+
+<p>&bdquo;Kind je bent anders zoo verstandig. Verzet je nou niet tegen je vader.... Daar rust geen zegen op.... Dat staat geschreven.... Je weet toch hoe driftig hij is...&rdquo;
+
+<p>&bdquo;Da-weet ik.... Maar &apos;k heb a gezegd en zal ook b zeggen. &apos;k Hou m&apos;n woord. Dat <pb id=pb14 n=14 facs="f:017">staat vast bij me. As je goed denkt te handelen, mot je dan niet doorzetten?&rdquo;
+
+<p>&bdquo;Maar &apos;t is juist heelemaal verkeerd, kind. Zeker, d&apos;r zijn wel goeje jodenmenschen, zeker, maar dat ze Christus....&rdquo;
+
+<p>&bdquo;Da-kan me niks schelen! De katholieken hebben de protestanten wel verbrand.... &apos;t Is toch allemaal zoo dom!.... Wat is nou &apos;n geloof, zei Max....&rdquo;
+
+<p>&bdquo;Zei-die dat? Nee da&apos;s niet mooi.... Zoo iets mag je niet zeggen....&rdquo;
+
+<p>&bdquo;Weet je moeder wat-ie me gezegd heeft, toen die me vroeg? &apos;k Hou van je.... &apos;k geloof dat je net als ik denk of zult leeren denken over &apos;n vormendienst. Wil je me hebben?.... Toen heb ik ja gezegd, &apos;k Heb beloofd nooit over godsdienst te spreken.... Protestant wor&apos;k niet, zei hij nog: as je me neemt, ben ik geen jood, jij geen christin, dan zijn we twee menschen. Jij gelooft an God, ik ook. Als we willen bidden, doen we &apos;t samen, thuis of buiten... Dat von &apos;k mooi. <pb id=pb15 n=15 facs="f:018">Dat heeft me gepakt. &apos;k Heb ja, ja gezegd. Vin-je dat nou niet natuurlijk moeder, dat twee, die van elkander houën, elkander nemen....?&rdquo;
+
+<milestone unit=tb>
+
+<p>Uit den grauwen nevel van een verdroomde jeugd dampen in Max&apos;s herinnering de opgedrongen, eentonige avonden door, waarin men hem &apos;t geloof zijner vaderen, als het gewichtigst beginsel met taai geduld ingoot. Vroeg waren de ouders gestorven. De oom, een tanig, geel-verdroogd manneke, had den rijken pupil opgevoed. Uit dien eersten tijd van onbegrepen levens-aspiratiën herinnert de jonge man zich flauw, hoe elke week een legio vormen-festiviteiten met zich meebracht. Dan zat hij naast de ouderwetsche, gerimpelde tante, wier gelaatskleur vreemd afstak tegen &apos;t zwart-glinsterende van haar gladgestreken bandeau. Oom had een fluweelen kalotje op; hijzelf zijn schoolpet. Dan dreunde hij uit &apos;t gebedenboek een stuk Hebreeuwsch, <pb id=pb16 n=16 facs="f:019">dat hij niet begreep, waarvan de klanken zóó door hem van buiten geleerd waren, dat hij de grillige letters nauwelijks spelde. Tante prevelde mee met een snelle trilling der dunne lippen. Oom galmde er tusschen door, dreunend met een sterk nasaal geluid, soms zalverig zingend. Dan werd het brood gedeeld, eerst gedoopt in &apos;t zout, en de mooie zilveren beker, gevuld met zuren wijn, ging rond van mond tot mond. Eerst oom een matig slokje; tante vond &apos;t lekker, slurpte de grootste helft op; Max &apos;t drabbig restantje. Volgde de vervelende, lange Vrijdag-avond met &apos;t frissche, witte tafelkleed op tafel. Oom snurkte op de sofa, tante dutte in op haar stoel, met een regelmatige knipping van haar dunnen nek; en als ze wakker werden, moest &apos;t kind naar bed. &apos;s Zaterdags mocht hij niet naar school. De eerste gang in Zondagskleeren was naar de Synagoog. Daar sufte &apos;t kind op de houten bank naast oom, die in een wiebelende heupbeweging de oefening <pb id=pb17 n=17 facs="f:020">volgde. Tante zat op de gaanderij, boven, onzichtbaar. &apos;s Middags werd er gewandeld, met kalme, afgemeten slenterpasjes en als &apos;t middagmaal&mdash;opgewarmd eten van den vorigen dag&mdash;op tafel stond, besloot een meegebromd gebed den zeurigen rustdag. Dat herhaalde zich elke week, monotoon, altijd &apos;tzelfde, behalve op buitengewone feestdagen. &apos;t Kind soesde, begreep &apos;t niet.
+
+<p>Toen kwam een meester, die hem op moest leiden voor de kerkelijke aanneming. Ja, die leeft frisch op in Max&apos;s geest, &apos;t Was een oud, eerwaardig mannetje, vol tabakslucht, vol snuif. Een grijze ringbaard hing stoppelig verward over kin en wangen, bedekte even &apos;t groezelig overhemd; kleine, sluwe oogjes schitterden onder langharige wenkbrauwen. En de knaap volgde met gretige, warme belangstelling de verhalen, de lijdensgeschiedenis van &apos;t joodsche volk in Egypte. Dàt vatte hij. Dan hing hij aan de lippen van den verteller, met een gevoel van trots in <pb id=pb18 n=18 facs="f:021">zich, had wel duizend jaren willen terugleven, om mee te strijden met &apos;t vervolgde, mishandelde ras, een hunner helden te zijn. Maar het vertalen van &apos;t Hebreeuwsch, het volgen van &apos;t gebedenboek was hem een marteling. De oude leeraar deed &apos;t voor, geduldig. &apos;t Kind had meer aandacht voor den grooten neus over hem, een neus vol snuif, als &apos;n vuile kachelpijp. Soms klonk er van de kinderlippen de eenvoudige vraag.... &bdquo;Maar, wàarom, wàarom, meester, moeten we joodsch bidden?... Verstaat God geen Hollandsch?....&rdquo; &apos;t Antwoord was vaag, glimlachend-wijs. &apos;t Kind begreep &apos;t niet.
+
+<p>De aanneming liep schitterend af. Het dertienjarig knaapje galmde een stuk gebed, de bloedverwanten gaven cadeau&apos;s, vonden dat &apos;t ventje zoo&apos;n zuivere uitspraak had. Max kreeg een lange broek aan, een rond hoedje op, een horloge op zak. Hij was jood geworden.
+
+<p>Den eerstvolgenden &bdquo;Groote Verzoendag&rdquo;<pb id=pb19 n=19 facs="f:022">&mdash;dag der dagen&mdash;moest hij vasten, dat spreekt vanzelf. Dien dag vergeet hij nooit. Om zeven uur &apos;s morgens was hij met oom al naar de kerk gegaan. Tegen één uur &apos;s middags had &apos;t kind zich ziek, ellendig gevoeld van honger. Een drukkende warmte, een mengsel van alle uitwasemingen hing in &apos;t kleine, mat-verlichte gebouw. De voorganger vulde de ruimte met zijn week, slepend geluid. Nu en dan verhief zich een golf van schreeuwende tumulten, wilde uitroepen, korte fanatieke, meegebrauwde kreten. Zwarte, bewegelijke lichamen, bedekt met slordig-geknoopte, witte of blauw-gekleurde doeken, gonsden, bewogen zich druk, galmden brommend. Enkelen waren ingeslapen, bedwelmd door de vunzige, dikke atmosfeer. Anderen keken sufferig voor zich neer. Sommigen lachten, fluisterden geestigheden, hadden &apos;t over lekker eten. Op &apos;t podium, omwalmd door rood-flikkerende kaarsen, lag de rabbijn, gebogen over den bidstoel.
+
+<pb id=pb20 n=20 facs="f:023"><p>&apos;t Kind zat koortsig, kregelig op de bank. Zijn maag brandde, gaf hem een razend verlangen naar eten. Langzaam kroop in &apos;t jeugdig hart een morrend, bitter verzet, een groote weerbarstigheid tegen dien God, dien men aanriep en aanbad, dien God, die hem tranen van honger naar de oogen dreef. In een stillen opstand begon de knaap opzettelijk, langdurig, met een boosaardige graagte te denken over wat hij &apos;t liefst nu zou eten.... gestoofde snoek.... peentjes.... eendebout... roomtaartjes.... gekookte eieren.... pekelvleesch.... zóólang, tot hij &apos;t hartwater kreeg en naar buiten moest om door een hapje frissche lucht wat te bedaren. Toen liep hij de straat uit. Op een hoop koopmansgoederen zat een werkman&mdash;&apos;t was juist schafttijd&mdash;een roodaarden pot met groente en aardappelen te leêgen. De vrouw keek er bij toe. Iedere schep van de vork bracht een dampenden hap naar den gapenden mond, terwijl &apos;t vet, in kleine bolletjes, plassend in <pb id=pb21 n=21 facs="f:024">den pot terugdroop. De man bleef even rusten; hij kon niet meer. Verder liep &apos;t kind. Nog nooit had hij zoo&apos;n honger gehad. Hij geeuwde er van. En voor &apos;t eerst deed hij zich zelf vragen, ingegeven door de krampachtige luchtborreling in zijn maag, door het gevoel van zwakte, de verbreking zijner veerkracht. Uit een kelder dampte de prikkelende lucht van gebraden uien, een geurige walm. Toen kwam &apos;t kind onwillekeurig te staan voor een fruitwagen op den hoek eener dwarsstraat; manden vol splijtende, langlijvige pruimen; sappige, malsche peren; blozende, bolle appelen. In &apos;t kleine beursje waren twee centen. Angstig, schuw, met een intense vrees voor God die &apos;t zag kocht hij drie appelen. Aan den waterkant verborgen achter kisten en vaten, werden ze verslonden. &apos;t Sloeg twee uur. &apos;t Rauwe goed stilde den eersten aandrang tot eten en toen &apos;t laatste klokhuis, groote, huppelende, wijd-uitloopende kringen op &apos;t watervlak tooverend, verdwenen was, <pb id=pb22 n=22 facs="f:025">kon &apos;t den knaap niets meer schelen of God boos was, of er straf zou volgen.
+
+<p>Datzelfde jaar kwam hij op &apos;t gymnasium, mocht den Zaterdag verzuimen. Daar kreeg hij zijn eersten vriend, den zoon van een advokaat. Weer herinnert zich Max hoe ze in &apos;t begin getwist hebben. De jonge vriend was nog nooit in de Synagoog geweest, rookte Zaterdags, kende geen woord Hebreeuwsch, was &apos;n vroegrijp ventje.
+
+<p>&bdquo;Gelooven ze bij jullie thuis an die malligheid?,&rdquo; had Aby gevraagd.
+
+<p>&bdquo;Zeker! Wie gelooft daar nou niet an?&rdquo;
+
+<p>&bdquo;O jee, wat zijn jullie toch stom! Pa zegt, dat jouw oom &apos;n bijgeloovige huichelaar is.&rdquo;
+
+<p>&bdquo;Zoo, dan&apos;s jouw pa gek!&rdquo;
+
+<p>Dit argument had Aby beantwoord&mdash;&apos;t gesprek werd zachtjes gevoerd, terwijl de Latijnsche leeraar op het bord stond te schrijven&mdash;door onder de schoolbank een geniepigen trap tegen Max&apos;s scheen te geven. Het slachtoffer had geschreeuwd, met &apos;t <pb id=pb23 n=23 facs="f:026">gevolg dat de onderwijzer wou weten wat er gebeurde. Max wou niets verraden, kreeg een uur schoolblijven.
+
+<p>&apos;s Avonds wachtte Aby hem op.
+
+<p>&bdquo;Da-was heel mooi, om niet te klikken,&rdquo; zei hij met warm enthousiasme: &bdquo;Hou je nou maar of ik je dien trap niet gegeven heb. Wil je?&rdquo;
+
+<p>&bdquo;&apos;t Was gemeen om &apos;t zoo stiekem te doen!&rdquo;
+
+<p>&bdquo;Dan most jij ook maar niet zeggen, dat mijn pa gek is!&rdquo;
+
+<p>&bdquo;Dan most jouw pa mijn oom niet uitschelden...&rdquo;
+
+<p>&bdquo;Da&apos;s mijn schuld niet. Wil je rooken, zeg?&rdquo;
+
+<p>&bdquo;Nee &apos;k rook niet!&rdquo;
+
+<p>&bdquo;Kan je &apos;t niet, hè?&rdquo;
+
+<p>&bdquo;Kunnen.... D&apos;r is wat an! Oom wil &apos;t niet hebben!&rdquo;
+
+<p>&bdquo;Wat ben jij nog &apos;n flauwe! Jasses!.... Zeg, ziet &apos;t d&apos;r mooi uit in jullie kerk?
+
+<pb id=pb24 n=24 facs="f:027"><p>&bdquo;Mot je maar &apos;s kommen kijken.&rdquo;
+
+<p>&bdquo;Laten ze je zoo maar binnen?&rdquo;
+
+<p>&bdquo;Nee, die &apos;s goed. Jij bent toch ook &apos;n jood!&rdquo;
+
+<p>Aby trok een diepzinnig gezicht.
+
+<p>.... &bdquo;&apos;k Mot &apos;t toch ook eens zien.... Pa zegt, dat ze ons niet binnenlaten, omdat we spek eten...&rdquo;
+
+<p>&bdquo;Spek?.... Durven jullie.... Dat zou &apos;k niet lusten.&rdquo;
+
+<p>&bdquo;Dien, de keukenmeid, bakt spekpannekoeken, zoo-as de koning ze niet beter krijgt. Zulke dikke! Wil ik &apos;s een stukkie voor je meebrengen?&rdquo;
+
+<p>..... &bdquo;&apos;k Lus &apos;t niet!&rdquo;
+
+<p>&bdquo;As je &apos;t eerst maar proeft.&rdquo;
+
+<p>&bdquo;Oom zegt, dat d&apos;r altijd beesten in zitten.&rdquo;
+
+<p>&bdquo;<corr sic="Bèje">Bè-je</corr> nou gek!&rdquo;
+
+<p>.... &bdquo;&apos;n Varken is &apos;n vies, vuil dier.&rdquo;
+
+<p>&bdquo;Nou, ik zal &apos;s &apos;n stuk van &apos;n pannekoek voor je meebrengen....&rdquo;
+
+<pb id=pb25 n=25 facs="f:028"><p>Een paar dagen later had Aby tusschen zijn schoolboeken in een grauw papier een reep weggemoffeld. Onder schooltijd schoof hij &apos;t zijn vrind toe. Maar &apos;t rook zoo zuur en &apos;t zag er zoo tranig uit, dat Max &apos;t maar stilletjes onder de bank liet glijden. Toch vond hij dat zoo&apos;n merkwaardig bewijs van vriendschap, dat hij na die spekpannekoeken-gebeurtenis zich heel nauw bij Aby aansloot en zijn vrije middagen met den jeugdigen liberaal doorbracht.
+
+<p>Op een mooien Woensdag-namiddag waren ze gaan roeien. Aby&apos;s ouders wisten er niets van en Max had vergeten permissie te vragen. Op den plas dreven ze in &apos;t langwerpig bakje. Aby doopte zijn handen telkens in &apos;t water, een volgens hem uitstekend middel, om de blaren, door de spanen gevormd, te genezen. Max blies met een wanhopig gezicht tegen de zijne om de pijn te verminderen. Uit vermoeidheid bleven de kinderen drijven.
+
+<pb id=pb26 n=26 facs="f:029"><p>....&bdquo;Roeien is heerlijk.... heerlijk!&rdquo; had Max huichelachtig verklaard; zijn goed dreef van &apos;t water, waarmee de roeier Aby hem bespat had en z&apos;n handen gloeiden, alsof ze geroosterd waren. &bdquo;Ja,&rdquo; was het geestdrift-volle antwoord: &bdquo;maar &apos;t zijn beroerde spanen, ze deugen geen cent....&rdquo;
+
+<p>Daarop waren ze aan &apos;t droomen geraakt. In een zachte, klotsende trilling kabbelde &apos;t water tegen het bootje. Zilverrimpeltjes en lichtplasjes omstraalden en omstuwden de golfjes. Een blinken, klateren, schateren van licht; een krioelend gespeel van vroolijke tintjes, dartelende schitterplekjes, brutale glim-figuurtjes, tooverden een schetterenden, bewegelijken reuzenspiegel, waarin de randen van &apos;t bootje in waggelende grilvormen knikkebollend kaatsten. Ritselend, met suizend geknap bogen de biezen aan de oevers in veerkrachtige, wuivende opwipping; rood-fluweelen koppen van duikelaars knikten loom en vervelend. Heel in de verte kartelden de scherpe <pb id=pb27 n=27 facs="f:030">omtrekken van den dorpstoren tegen de hard-blauwe lucht, als uitgeknipt in den hemel. In een mijmerende, weeke overgeving lag &apos;t landschap. Een nerveuze loomheid gleed over het water....
+
+<p>&bdquo;Waar denk je an?&rdquo; vroeg Aby op eens, zelf uit zijn droom wakker wordend.
+
+<p>&bdquo;An niks....&rdquo;
+
+<p>&bdquo;Ik dacht an wat d&apos;r achter de wolken zou zijn....&rdquo;
+
+<p>&bdquo;Nou God natuurlijk!...&rdquo;
+
+<p>&bdquo;God?&rdquo;
+
+<p>&bdquo;Zeker.&rdquo;
+
+<p>&bdquo;God? <hi>Ik</hi> zeg je dat &apos;r geen is.&rdquo; Op dat &bdquo;ik&rdquo; lei Aby een gewichtigen nadruk. Die verklaring klonk wel eenigszins komisch, daar de jeugdige theologant met &apos;n bezweet gezichtje naar de blaren in zijn handen zat te kijken.
+
+<p>In de ooren van den eenigen toehoorder was &apos;t een vreeselijke profanie.
+
+<p>&bdquo;Zeg hou nou op met die enge dingen.... We zitten in &apos;n bootje....&rdquo;
+
+<pb id=pb28 n=28 facs="f:031"><p>&bdquo;Hè wat &apos;n flauwe kul!&rdquo;
+
+<p>&bdquo;Nee jij bent flauw.... As we nou gestraft worden, omdat je dat zegt....&rdquo;
+
+<p>&bdquo;Nou zal &apos;k expres schommelen!&rdquo;
+
+<p>&bdquo;Jò, pas op! Jò, hou op!&rdquo;
+
+<p>Aby brulde van &apos;t lachen, daarna kreeg hij medelijden met den angst van zijn kameraad.
+
+<p>&bdquo;Zie je nou wel dat &apos;t niks geeft! Jij zal wel an &apos;m gelooven, hè? Ik niet, pa ook niet.&rdquo;
+
+<p>&bdquo;Natuurlijk is d&apos;r een.&rdquo;
+
+<p>&bdquo;Heb jij &apos;m ooit gezien?&rdquo;
+
+<p>&bdquo;Hè, wat &apos;n vraag!&rdquo;
+
+<p>&bdquo;Heit je oom &apos;m ooit gezien?&rdquo;
+
+<p>&bdquo;Nee natuurlijk.&rdquo;
+
+<p>&bdquo;Heit je tante &apos;m ooit gezien?&rdquo;
+
+<p>&bdquo;Nee zeg ik al.&rdquo;
+
+<p>&bdquo;Nou niemand heit &apos;m nog gezien!&rdquo;
+
+<p>&bdquo;As je dood bent, zie j&apos;m.&rdquo;
+
+<p>&bdquo;Da&apos;s kles. Hij is d&apos;r niet.&rdquo;
+
+<p>&bdquo;Zoo! Wie heit dan de heele boel gemaakt?&rdquo;
+
+<pb id=pb29 n=29 facs="f:032"><p>&bdquo;Da&apos;s zelf gekomme.&rdquo;
+
+<p>&bdquo;Ach je bè-gek!&rdquo;
+
+<p>&bdquo;Bè-jij dan door God gemaakt of door je moeder?&rdquo;
+
+<p>&bdquo;Da-weet ik niet.&rdquo;
+
+<p>&bdquo;Wat ben jij &apos;n uil!&rdquo;
+
+<p>&bdquo;Tante zegt dat ze me gebracht hebben...&rdquo;
+
+<p>Hier schaterde Aby &apos;t weer uit, waarna hij met een geleerd gezicht, met een erg nuchtere oppervlakkigheid een geheimzinnig-realistische beschrijving gaf op welke wijze kinderen op de wereld komen. Aby&apos;s wetenschap vervulde Max met een groot ontzag. Over &bdquo;het ontstaan van den mensch&rdquo; had hij in zijn onschuld nog nooit nagedacht. Nu opende zich voor hem een vreemd veld. Hij deed allemaal malle vragen, begreep er niets van, geloofde &apos;t maar half, maar langzaam nestelde zich toch in zijn kleine hoofdje een lauw begrip van &apos;t leven, tegelijk met een angstige ingeving om niets van zijn belangrijke <pb id=pb30 n=30 facs="f:033">ontdekkingen aan tante of oom te laten merken.
+
+<p>&bdquo;Zie je nou,&rdquo; vervolgde Aby in den vollen triomf zijner superieure kennis: &bdquo;da-wist je nog niet eens. Zal je nou ook wel gaan begrijpen, dat God maar &apos;n sprookie is, om je zoet te houen.&rdquo;
+
+<p>&bdquo;Da&apos;s onzin. Je heb toch niet al die kerken voor niks?&rdquo;
+
+<p>&bdquo;Die zijn d&apos;r nou eenmaal.... Da&apos;s geen bewijs!.... Bewijs jij nou dàt-ie d&apos;r is!&rdquo;
+
+<p>Max keek bedenkelijk.
+
+<p>.... &bdquo;Eerstens zegt oom &apos;t.... tweedens staat &apos;t in den bijbel.... derdens mot iemand &apos;t water en &apos;t land toch gemaakt hebben.... vierdens... Ach, wat &apos;n onzin!....&rdquo;
+
+<p>&bdquo;<hi>Ik</hi> zeg je,&rdquo;&mdash;weer de nadruk op dat &bdquo;ik&rdquo;&mdash;&bdquo;ik zeg je, dat &apos;r geen is. Wil je &apos;t lezen? &apos;k heb d&apos;r &apos;n boekie over....&rdquo;
+
+<p>&bdquo;&apos;n Boekie?&rdquo;
+
+<p>&bdquo;Stiekem van m&apos;n ouwe weggenomen. Wil j&apos;t lezen?&rdquo;
+
+<pb id=pb31 n=31 facs="f:034"><p>&bdquo;Jò, ik durf niet, as oom &apos;t merkt....&rdquo;
+
+<p>.... &bdquo;Jij met je oom! Da&apos;s toch je pa niet. Zeg ik zal &apos;t je morgen geven en dat andere boekie over de kinderen ook.... je weet wel.&rdquo; Hierna stak Aby een cigarette op, met dikke koonen rukkend den rook wegspuwend, zenuwachtig-haastig, niettegenstaande hij zich alle moeite gaf &apos;t lekker te vinden en &apos;n bedaard gezicht te trekken.
+
+<p>&bdquo;Zouën vader en moeder dan niet in den hemel zijn?&rdquo; vroeg Max na eenig stilzwijgen: &bdquo;&apos;k heb altijd geloofd da-ze bij God zijn...&rdquo;
+
+<p>&bdquo;Wel nee .... de hemel is enkel wolken.... as j&apos;op &apos;t kerkhof komt, legt de heele boel in &apos;n kist. Vin jij dat ook niet griezelig, dat ze je zoo in den grond stoppen?....&rdquo;
+
+<p>&bdquo;&apos;k Heb d&apos;r nog nooit over gedacht....&rdquo;
+
+<p>&apos;t Ventje verviel in een droomerig nadenken, schuw opkijkend naar den blauwen hemel, die over &apos;t water welfde.
+
+<pb id=pb32 n=32 facs="f:035"><p>Diezelfde week werd oom zwaar ziek en stierf. &apos;t Eerste sterfbed, dat Max bijwoonde. Dat was een gruwelijke avond geweest; niet om &apos;t verdriet, maar om de aangrijpende realiteit van &apos;t oogenblik. Tante huilde, zuchtte, lamenteerde beneden, liefderijk omringd door een paar goedige, praatzieke vriendinnen. Boven lag &apos;t verdroogde manneke te reutelen. Wijd was de mond opengespannen, met eene schokkende, zenuwachtige trekking van de onderkaak. Kwijnend openden zich de oogleden, lieten &apos;t slijmerige wit der oogen doorschemeren. Bij &apos;t bed met kaarsen in de hand, stonden twee wakers, vuile, smerige kerels, wier neuzen drupten. En als de kaakbeweging ophield, een zwaardere reuteling door de werkstakende longen uitgestooten werd, bogen zich de vieze, vunzige mannetjes dichter over den zieke. Eens dachten ze, dat hij dood was, hield er een haastig de kaars voor den mond, maar de vlam flikkerde en telkens dreunden ze eentonig, zonder gevoel, als betaalde <pb id=pb33 n=33 facs="f:036">huurwezens, den Hebreeuwschen zang op, dien weer plotseling afbrekend, als &apos;t wegstervende, tanige stuk lichaam in &apos;t bed nog geluid deed hooren. Max keek met een wezenlooze ontzetting nu eens naar &apos;t vermagerde, hoekig gezicht op &apos;t kussen, dat er in zijn stuiptrekking afschuwelijk uitzag, dan naar de verlichte tronies van de doodshaviken. Toen kwam tante er bij; de verplegers veegden hun neuzen schoon met &apos;t vlak hunner zwarte, rimpelige handen, morsten kaarsvet op de dekens, keken nog nauwkeuriger met &apos;t licht in den mond van den stervende. Plotseling galmden ze luider, onafgebroken dompe klanken uitstootend: een opborrelende zucht, krakend, pijnlijk, klonk uit de dekens; sneller, heescher, matbrabbelend gonsde de lijkzang.... de kaars voor den verdroogden mond met de zwarte tandstompjes vlamde helder op, zonder afwijkingen.... Er lag een lijk.
+
+<pb id=pb34 n=34 facs="f:037"><p>Den volgenden dag was &apos;t een geloop en gedraaf door de gangen. &apos;s Avonds kwamen vrouwen &apos;t doodshemd naaien. Max zat er bij toe te kijken op een stoof. Half suf nam &apos;t kind alles in zich op, met verwilderde verwondering luisterend naar &apos;t gekakel van de babbelmenschjes. Telkens kreeg hij een koude rilling over den rug als een der vrouwen het linnen knarsend tusschen de nagels schuurde. &apos;t Plassend gefrommel van &apos;t witte, glanzende goed, &apos;t suizend scherpe gescheur vermengde zich met de beklagende gemeenpraatjes, de oprakeling van al &apos;t goede van den doode. Koffie, prikkelend van geur en dikke vettige koek gingen rond; de vingers pikten deftig bedaard en &apos;t licht in &apos;t hoekje, waar de knaap neerhurkte, werd regelmatig onderschept door de eentonige armbeweging van een der naaiende juffers.
+
+<p>Toen was &apos;t kind even opgestaan, in de gang geloopen om zijne loome slaperigheid te verdrijven. Juist werd de doodkist opgedragen. <pb id=pb35 n=35 facs="f:038">De leege doos gaf klotsende, holle stooten tegen de nauwe trap. En in pijnlijke nieuwsgierigheid was hij meegeloopen, stil sluipend naar boven. &apos;t Lijk werd gereinigd. Telkens glipte &apos;t beenige hoofd in willooze neerzakking omlaag. &apos;t Lichaam in zijn vellige magerheid, zijn kleurloosheid, &apos;t hoekige, gerimpelde gelaat&mdash;bijna onherkenbaar&mdash;gaven Max een gevoel van braking. Toch bleef hij toekijken met huiverende graagte, verschool zich half achter &apos;t bed om niet gezien te worden, hield den zakdoek stijf tegen den neus geperst, niet in te ademen die walgelijk zoete ontbindingslucht. Die gesloten, donker getinte oogleden, die groenig-witte onnatuurlijke kleur, die ontzenuwde machteloosheid van &apos;t heele lichaam, die harde gekromde vingers, met de groote nagels.... dat alles drukte &apos;t kind, dampte zijn hersens weg in een halve bewusteloosheid. Eerst toen &apos;t lijk in de kist gleed, de knieën hardhandig opgetrokken werden, omdat de beenen te lang <pb id=pb36 n=36 facs="f:039">waren; &apos;t harige hoofd op den houten bodem bonsde en het deksel onder naargeestig, kakkelend gebed, piepend opgeschroefd werd, klonk er een flauwe kreet achter &apos;t ledikant, was &apos;t kind ineengezakt. Groote tranen biggelden over &apos;t bleeke gezichtje, niet van verdriet.... van angst, afschuw, ontzetting, schrikkelijk doordringende vrees. Onhoorbaar snikkend, flitsten nevelgedachten door de moede hersentjes, doortrilde hem een koortshuivering, een groote angstgolf en in de wirwar van dompige vraagjes, van snel elkander verdringende pijnvleugjes, glipte en hamerde de twijfling door &apos;t hoofdje:.... &bdquo;als.... als.... als d&apos;r geen God is.... waar?.... waar? waar?....&rdquo; En dien heelen nacht woelde hij in &apos;t bed, stond een keer op, keek uit &apos;t raam en plotseling met een kramp van ontzetting, dook hij weer onder de dekens, diep zich verbergend, stikkend van warmte, badend in &apos;t zweet, vloog nóg eens op, draaide met een wilden ruk de deur op slot, schoot onder <pb id=pb37 n=37 facs="f:040">de kussens, klappertandend, klam, ellendig.... en viel onbewust in slaap.
+
+<p>&apos;s Morgens was de begrafenis. In de voorste koets met &apos;n paar bloedverwanten, werd &apos;t kind dommelend heen en weer geschud. De neergelaten, strakgespannen gordijntjes ritselden aan de zijden bandjes; langzaam voorwaarts schokte &apos;t voertuig. Alleen de gelijkmatige kleppering der hoeven drong met &apos;t rumoer van de straat door. Zoo sukkelde men naar &apos;t kerkhof. Op de zwarte draagbaar in &apos;t bidhuis kwam de kist te staan, al de volgers er omheen. Het deksel werd afgeschroefd. &apos;t Knaapje lei een zak met aarde onder &apos;t hoofd van &apos;t lijk. Gotogot! Gotogot!.... Die glibberige <corr sic="aaiïng">aaiing</corr> van de haren! Dat weeke, vochtige vel! Gotogot!.... Een oud, gebogen geestelijke sprak nu een gebed. Al de familieleden bromden er doorheen. Weg stierven de tonen in de holten van &apos;t bidhuis. En voort ging het. Alle bloedverwanten en vrienden droegen de baar uit &apos;t <pb id=pb38 n=38 facs="f:041">koude, vierkante portaal in de warme, zonnige volte van het in licht badende kerkhof. Heen tusschen al die opstaande zerken kroop de kleine stoet, schaduw afwerpend op &apos;t welig opschietend groen, opvangend den goddelijken weerschijn van den melkwitten, stralenden hemel; de laatste gang van de overblijfselen in die mooie natuur, dat licht, die opleving....
+
+<p>Langzaam zakte de doos, wiebelend aan de touwen, dat zand in fijne straaltjes afgleed. Een broer wierp snikkend drie schoppen aarde in de diepte. Klots.... klots.... klots. Bevend greep ook &apos;t kind de spade, schepte kortstootend op, halve schepjes, liet &apos;t mulle zand met een afgewend gezicht afglijden, driemaal ritselend, schuifelend, zacht als poeder. Toen wierp hij zich krampachtig, snikkend, alsof zijn ziel wou barsten, aan de borst van &apos;n neef....
+
+<p>&apos;t Was afgeloopen.
+
+<p>Een week later werden de lessen op het <pb id=pb39 n=39 facs="f:042">gymnasium hervat. Inniger sloot Max zich bij zijn vriend aan en de twee knapen, in zoo verschillende richting opgevoed, konden avonden lang als volwassen menschen over de meest ondoorgrondelijke dingen met &apos;t grootste aplomb redeneeren.
+
+<p>Meestal dreef Aby zijn brutale meeningen door, want &apos;t besliste &bdquo;<hi>ik</hi> zèg&rdquo; maakte een grooten indruk op &apos;t nog weifelend karakter van den ander. En langzamerhand bleef Max uit de Synagoge weg! Oom was er niet meer om hem te bestraffen; tante&mdash;kwakkelend, ziekelijk na den dood van haar man&mdash;ging zelf niet meer naar de kerk. De stelling, dat er geen Opperwezen is, schoot dieper en dieper wortel, in &apos;t gemoed van den knaap. Eerst liet hij zijn middaggebed met zekere huivering na. &apos;t Eten bekwam hem even goed. Toen bad hij &apos;s avonds niet meer, voelde zich tóch angstig, alsof hij iets verkeerds deed. Ook dat ging over. Vrijdag en Zaterdag dreunde hij &apos;t Hebreeuwsch <pb id=pb40 n=40 facs="f:043">gebed op, om de ziekelijke vrouw niet te ergeren, deed &apos;t met een toonloos geluid, denkend aan schoolzaken of andere dingen. De jaren verliepen. Boeken werden verslonden. Multatuli had de plaats van een afgod in de harten van de twee vrienden veroverd. Ernstiger, meer ontwikkeld zochten ze als twee vroegrijpe menschjes, naar de oorzaak van alles. In &apos;t hart van Max nestelde zich onwillekeurig een vurige natuuraanbidding, &apos;t gevolg van de behoefte om een Iets&mdash;wat doet de naam er toe!&mdash;te vereeren, in zich om te dragen. Uren kon hij rondloopen buiten in de velden, in de bosschen, met stille, warme verrukking voor al &apos;t levende, aangegrepen door &apos;t onverklaarbaar schoone om hem heen. Uren kon hij kijken naar een eenvoudig bloempje, met een bekruiping van poëtische extase, met zinnelijk opgaan in &apos;t kleine vormpje, met heete popeling om &apos;n onbegrepen dank te uiten.
+
+<pb id=pb41 n=41 facs="f:044"><p>Na &apos;t Eindexamen mochten ze een reisje ondernemen, de eerste maal, dat ze de geboortestad verlieten. Na de terugkomst wachtte hen de <corr sic=ontgroenig>ontgroening</corr> en de hoogeschool.
+
+<p>Uitgelaten van dol pleizier, twee geelbekkige vogeltjes, die voor &apos;t eerst uit &apos;t nest wippen, gingen ze heen, maakten een voetreisje door de Belgische Ardennen&mdash;&apos;n bescheiden uitstapje, dat hun reusachtig toescheen&mdash;en ze genoten in een roes van genot, dubbel, omdat voor hen alles nieuw, frisch van bekoring, zuiver van indruk was.
+
+<p>Op een avond zaten ze aan den oever der Maas, in &apos;t stadje Namen. Van het terras eener <corr sic=societeit>sociëteit</corr>, heel in de verte, klonk droomerige, wegtokkelende, kirrendzachte muziek; slepende klanken, zoete melodieën, die opjubelden en straks weer als klaagtonen zwevend wegstierven.
+
+<p>Anders was &apos;t stil, heel stil, drukkend. Met een sterke strooming gleed de rivier, een dikke verzilverde draad, in stuwende, borrelende <pb id=pb42 n=42 facs="f:045">schuring langs de pijlers van een brug, waarvan alleen de sombre omtrekken en bleeke gloeipuntjes van lantaarns zichtbaar waren. Aan den hemel glansde de maan als een groot geel oog, licht uitstralend.
+
+<p>Op den anderen oever, hoog in de wolken, donker, brutaal lijnend haar massieve vormen, hief zich de citadel; een vette schaduw, een dikke zware prop in den nacht.
+
+<p>Sterren glimmerden hel, ernstige kijkertjes. Soms buitelde een golfje wit spattend uiteen tegen &apos;t graniet van de bedding. Soms ritselde &apos;t groen met een wrijvend geluidje.
+
+<milestone unit=tb>
+
+<p>Toen, heel eenvoudig, &apos;n spontane opwelling, fluisterde Max voor zich heen....: &bdquo;Daar ìs &apos;n God....&rdquo;
+
+<milestone unit=tb>
+
+<p>Op de academie toonde hij zich intelligent, maakte zich veel vrinden. Hier ontbolsterde hij heelemaal, toonde zijn eerlijk karakter, toonde zich dweper voor al &apos;t mooie, maar <pb id=pb43 n=43 facs="f:046">de vinnige bestrijder, de vurige vijand van alle konventie, van alle vormen. Sedert dien avond in Namen had hij begrepen, de ingeving van zijn hart volgend. Met zijn kalme philosophie deed hij nu dikwijls wonderen. Eens op &apos;n kamerjool, had een aangeschoten student hem voor &bdquo;jood&rdquo; uitgescholden. Max had geglimlacht, niets geantwoord. Den volgenden dag zocht hij den twistzoeker op:
+
+<p>&bdquo;Zie je Karel, da-was &apos;n domheid van je, om dàt te zeggen. &apos;k Kan d&apos;r niet kwaad om worden. Waarachtig niet! Wat is &apos;n jood?.... Och lieve God, &apos;t is zóo klein &apos;n mensch jood te noemen, vin je dat nou zelf niet? Wat is &apos;n jood, vraag ik?.... &apos;k Zou de heele wereld willen wakker schudden, dat vervloekte onderscheid willen breken! &apos;t Is zoo árm, jood of ketter of paap te zeggen, zoo voos, zoo misselijk! Dat ze niet voelen dat de zon an den hemel staat en de lucht d&apos;r is voor allen! Jij vóélt dat ook!... Kerel, zie je wel, nou lach je zelf om die ui van gister&rdquo;....
+
+<pb id=pb44 n=44 facs="f:047"><p>Soms schaterde hij &apos;t uit achter zijn krant. Die hem begrepen lachten mee. .... &bdquo;De krant is weer &apos;n publieke kleingeestigheid.... Ha! Ha! Ha! Ha!.... kostelijk!&rdquo; .... en hij las half verbitterd, half spottend heel gewone dingen voor: .... &bdquo;Gevraagd een R. K. dienstmeisje.... Er biedt zich aan een klerk P. G.... De vereeniging tot ondersteuning van hulpbehoevende Protestantsche blinden.... Vergadering der Katholieke Kiesvereeniging.... De ondergeteekenden roepen de hulp in voor een Joodsch huisvader....&rdquo;
+
+<p>De woelingen der kerkelijke partijen in de Kamers vond hij walgelijk. Hij zou de leiders van al die richtingen alleen maar willen vragen.... &bdquo;Geloof j&apos;an God?&rdquo; .... niets meer. Als men&mdash;zijn rijkdom was bekend&mdash;bij hem kwam om geld voor de een of andere sekte, weigerde hij botweg. Liefdadigheid voor &apos;t algemeen was een zijner utopieën. Hij bezocht alle kerken, met steeds <pb id=pb45 n=45 facs="f:048">klimmende verbazing en belangstelling de menigte bestudeerend, die daar regelmatig, vol vormenijver, bijeenkwam; offerde nooit in de bussen; bad zelf nooit. .... &bdquo;Ik dank elk oogenblik van den dag, zonder woorden, thuis.... of buiten, als de natuur in me dringt, of de kunst..... O de mooie, mooie kunst!....&rdquo;
+
+<p>Als hij stierf wou hij niet op de Joden-begraafplaats. Neen, bij de anderen, op de Algemeene. Dat was een zijner stokpaardjes: .... &bdquo;Vat je dat, dat al die kisten met beenderen in soorten liggen? Kun j&apos;an &apos;n doodskop zien, wat voor vormendomheid in die kast woelde? Nou heb je joodsche, protestantsche, katholieke, mahomedaansche.... lijkwurmen, verbeel-je!.... En de planten op de graven zuigen de sappen en bloeien van liberale, christelijke, orthodoxe uitwasemingen! O die krankzinnige vooroordeelen....&rdquo;
+
+<p>Bij kunstenaars was hij gezien, omdat hij zoo&apos;n juist gevoel toonde en zelf mooie dingen <pb id=pb46 n=46 facs="f:049">schrijven kon. Eens maakte hij kennis met een knap musicus, die met zijn eigen godsdienst dweepte en hatelijk, onverdraagzaam was tegenover andere. Hij brak de kennis met dien man af:.... &bdquo;Van gewone menschen begrijp ik veel. Bij &apos;n artist kan &apos;k geen kleinheid velen. Die moeten voelen wat &apos;n vorm beteekent, hoe laf die is tegenover God.... Die man is geen artist, die mist zuiver sentiment....&rdquo;
+
+<milestone unit=tb>
+
+<p>&bdquo;Mag ik je voorstellen? Mijn nichtje Dora.... m&apos;n vriend Max Kremer....&rdquo;
+
+<p>Ze bogen voor elkander. De neef liet ze alleen en met een diepe bewondering bleef Max voor &apos;t slanke meisje staan.
+
+<p>&apos;t Was op een fancy-fair. Dora was bloemverkoopster. Ze zag er onschuldig, zonnig uit, lente-koninginnetje van &apos;t feest. &apos;t Was bijna voor &apos;t eerst, dat de jonge man een vrouw in baltoilet, in dat gracieuse, verleidelijke glinsterkleed zag. Die indruk drong in <pb id=pb47 n=47 facs="f:050">hem door, half-bedwelmend als de geur van een uitbottende roos. Zijn oogen rustten met zooveel schittering in de hare, dat ze verlegen werd en toch blij. Ze vond z&apos;n oogen mooi.
+
+<p>Na afloop was er bal. Driemaal had Max&apos;s naam in Dora&apos;s boekje gestaan, driemaal hadden ze gedanst. Zoo&apos;n dans.... de muziek hoor je, den vloer voel je niet. Lucht zuigt om je heen, koelte blazend tegen je warme hoofd. Moeheid merk je niet. Je hebt &apos;t meisje in je armen, houdt haar om &apos;t middel dat de stof van haar kleed één is met je handschoen en de handen rusten in elkaar, als electrisch gesmeed. Soms hijg je naar adem, soms druk je de warme gestalte tegen je an. Soms kijk je neer, ziet de donshaartjes wuiven in &apos;t blanke nekje, ziet de rozige oortjes trillen, soms ontmoet je elkaars blikken, half bevreemd dat j&apos;elkander zoo innig omvat. Soms ben je alles vergeten, soest je geheugen weg, zwaai je, draag je, vlieg je <pb id=pb48 n=48 facs="f:051">voort als een wezenloos lichaam, toch met een huivering van geluk in je. Dan houdt de muziek op, wor je koud-wakker, brengt het meisje deftig terug en je voelt je beklemd als je voor haar staat, met een aandrang haar niet aan te zien of wonderlijk lang. Zoo&apos;n dans....
+
+<milestone unit=tb>
+
+<p>&bdquo;D&apos;r ouwe is &apos;n kwaje! Jongens, da&apos;s lang niet maklijk!&rdquo;....
+
+<p>Dit was Karels bedenking, toen Max twee maanden later, plotseling bij hem binnenviel, hem kort en bondig vertelde, dat hij smoorlijk op Dora verliefd was en dolgraag bij Karels oom geïntroduceerd zou worden.
+
+<p>.... &bdquo;Als ik openhartig met je spreek, Karel, wil ik ook &apos;n even rond antwoord. Wij hebben éen keer &apos;n kleine kwestie gehad, toen jij boven je theewater was.... Da&apos;s al lang vergeten.... Zeg wil jij je moeite <pb id=pb49 n=49 facs="f:052">geven.... of.... heb j&apos;r zelf iets tegen, dat &apos;n jood....&rdquo;
+
+<p>.... &bdquo;Bè-je mal kerel, nee! Je hebt me nou toch al beter leeren kennen! Laat dat maar rusten. Mijn zegen heb je, maar oom.... &apos;n Beste vent.... maar koppig als &apos;n stier, en die&mdash;je neemt &apos;t me niet kwalijk?&mdash;die kan joden niet luchten....&rdquo;
+
+<p>&bdquo;Da&apos;s leelijk genoeg....&rdquo;
+
+<p>&bdquo;Zeg dat wel.&rdquo;
+
+<p>&bdquo;Zoo kerksch?&rdquo;
+
+<p>&bdquo;Nee da&apos;s &apos;t woord niet. Hij komt er nooit... &apos;t Is &apos;n <foreign lang=fr>idée fixe</foreign> van &apos;m.... Rassenhaat....&rdquo;
+
+<p>&bdquo;Dan mot &apos;r toch &apos;n bepaalde reden zijn!&rdquo;
+
+<p>&bdquo;Die is d&apos;r ook. Een beroerde reden. Waarachtig, je kunt &apos;t &apos;m niet kwalijk nemen. Z&apos;n ouwe heeft zich verdronken, toen die &apos;n klap kreeg van &apos;n bankier.... &apos;n jood.... die.... nou affijn daàr was &apos;n luchie an.... En &apos;n hoop schulden zijn d&apos;r achtergebleven. Oom is in zaken &apos;n kraan van &apos;n vent, heeft zich d&apos;r heelemaal bovenop gewerkt en alles <pb id=pb50 n=50 facs="f:053">van z&apos;n ouwe afbetaald... &apos;k Wou dat mijn ouwe &apos;t eens voor mij deed....&rdquo;
+
+<p>&bdquo;Zeg, is d&apos;r anders geen reden?&rdquo;
+
+<p>&bdquo;Nee.&rdquo;
+
+<p>&bdquo;Maar daar valt dan toch tegen te praten, hè?&rdquo;
+
+<p>&bdquo;Nou, &apos;k wil &apos;t probeeren, maar &apos;k zeg, d&apos;r komt geen jood over z&apos;n vloer.&rdquo;
+
+<p>&bdquo;&apos;t Is treurig dat-ie &apos;n haat heeft tegen allen, omdat d&apos;r éen....&rdquo;
+
+<p>&bdquo;Ja maar kerel, as je ouwe.... Da&apos;s niet mis, da-vergeet je nooit!&rdquo;
+
+<p>&bdquo;&apos;k Had al met Dora gesproken.&rdquo;
+
+<p>&bdquo;Natuurlijk &bdquo;ja&rdquo; gezegd, niet?&rdquo;
+
+<p>&bdquo;Natuurlijk? Waarom natuurlijk?&rdquo;
+
+<p>&bdquo;Wel zonder j&apos;n compliment te maken, jij hebt &apos;n tong.... &apos;t Is &apos;n lieve meid.... As je d&apos;r krijgt heb-ie wat an d&apos;r....&rdquo;
+
+<p>&bdquo;Da-weet ik. As je wist....&rdquo;
+
+<p>&bdquo;&apos;k Heb &apos;t al lang begrepen. Niet voor niks ben jij op al die concerten geweest.... Bè-je klaar voor je doktoraal, zeg?...&rdquo;
+
+<pb id=pb51 n=51 facs="f:054"><p>&bdquo;Volgende maand.&rdquo;
+
+<p>&bdquo;Boffert!&rdquo;
+
+<p>&bdquo;Da&apos;s maar zoo, zoo.&rdquo;
+
+<p>&bdquo;Wablief? &apos;n Meisje om te stelen, geld as water! &apos;k Zie jou nog &apos;s in de Kamer!....&rdquo;
+
+<milestone unit=tb>
+
+<p>&bdquo;Ga zitten,&rdquo; zei tante.
+
+<p>Max zette zich neer naast &apos;t oude vrouwtje, wier bandeau even ravenzwart glom als vroeger, wier vel alleen wat meer gerimpeld was. Tante had uit haar vroegere ziekte een hevige doofheid overgehouden, bediende zich nu van een hoorn. Ze kwam bijna niet meer van haar stoel af. Als ze uitging, reed ze. Een oude meid, Rika, nam het huishouden waar, was tevens de onmisbare raadgeefster in gevallen, dat tante gewichtige dingen in haar hoofd vermaalde. Neef Max was de afgod van &apos;t wegkwijnende vrouwtje. Als hij haar op kwam zoeken, schoot een glim van levensvreugde over &apos;t gegroefde gezicht, hingen de kleine blinkend-zwarte oogen aan <pb id=pb52 n=52 facs="f:055">zijn lippen. Ofschoon ze niet lezen kon, bewaarde ze zorgvuldig de kranten, waarin zijn naam voorkwam als hij examens gedaan had. Meestal wipte neef Vrijdagsavonds naar binnen, smeet zijn sigaar voor de deur weg, las het vrouwtje een stukje voor, hard in den hoorn schreeuwend, tot ze knorrend van pleizier, als een verwend, oud poesje in slaap dutte&mdash;&apos;t instrument zachtjes in den schoot plofte&mdash;en ze met een trek van lekker genoegen bleef knikkebollen, tot de jonge man, luidruchtig geeuwend&mdash;haar uit &apos;t slaapje wakker schudde....
+
+<p>&bdquo;Alles wel, tante?&rdquo;
+
+<p>&bdquo;Mot wat harder spreken, heb &apos;n kou gevat, versta niks vandaag....&rdquo;
+
+<p>&bdquo;Alles wel?&rdquo;
+
+<p>&bdquo;Ja, ja, ja! Je ziet d&apos;r best uit.&mdash;Rika! Rika!.... &apos;t Gas stoomt!&mdash;Nee Max, jij niet!.... &apos;t is Sjabbes.... da-mag niet.... da-weet je wel!&rdquo;
+
+<p>.... &bdquo;&apos;k Heb al zoo&apos;n boel op m&apos;n geweten, <pb id=pb53 n=53 facs="f:056">tante. Laat de meid maar in de keuken blijven. &apos;k Zal &apos;t wel neerdraaien....&rdquo;
+
+<p>&bdquo;Nee, nee! Da-wil ik niet.... Rika! Rika! Zoo ben je daar, kind.... Ach toe draai &apos;t gas wat neer, wil je?.... En dan de koffie.... &apos;k heb d&apos;r geleerd kiks<note n=1>Koek.</note> te bakken. Da-mot je proeven.&rdquo;
+
+<p>&bdquo;Met pleizier.&rdquo;
+
+<p>&bdquo;Is d&apos;r nieuws in de gemeente?&rdquo;
+
+<p>&bdquo;Dat zal u wel beter weten dan ik. Toch wilde &apos;k nog eens ernstig met u spreken, tante.&rdquo;
+
+<p>&bdquo;Wat zeg je? Harder! Wat spreek je toch zachies vandaag!&rdquo;
+
+<p>&bdquo;Tante je mot niet boos worden.&rdquo;
+
+<p>.... &bdquo;Ikke.... boos.... op jou?&rdquo;
+
+<p>&bdquo;Ik ga trouwen.&rdquo;
+
+<p>&bdquo;Soo, soo, soo!.... Wat zè-je daar! Dat doet me pleizier....&rdquo;&mdash;ze vatte zijn hand: &bdquo;jij bent zoo verstandig, da-je meisje wel goed <pb id=pb54 n=54 facs="f:057">mot wezen... da-verdien je.... Enne, enne... hier uit de stad?&rdquo;
+
+<p>&bdquo;Ja, tante.&rdquo;
+
+<p>&bdquo;Soo, soo, soo....&rdquo; Een tintelende pret kwam over &apos;t ouwe gezichtje. Ze vergat heelemaal den naam te vragen, bij de gedachte dat ze &apos;t misschien nog halen zou, &apos;n kindje van haar neef &bdquo;tante&rdquo; of &bdquo;groótmoe&rdquo; of zoo iets te hooren zeggen: &bdquo;Soo, soo, soo.... enne.... enne.... is ze mooi?&rdquo;
+
+<p>&bdquo;O God, as je d&apos;r zag....&rdquo;
+
+<p>&bdquo;Enne, enne.... geld....?&rdquo;
+
+<p>.... &bdquo;Da-geloof &apos;k wel...., Da&apos;s bijzaak!&rdquo;
+
+<p>.... &bdquo;Bijzaak.... Nee da&apos;s geen bijzaak, da&apos;s hoofdzaak.... Zoo is &apos;t goed,... heel goed.... Nou komp geld bij geld.... Waarom heb-ie d&apos;r niet meegebrocht?&rdquo;
+
+<p>&bdquo;D&apos;r zijn moeilijkheden tante.&rdquo;
+
+<p>&bdquo;Wa-zeg-ie? Harder! Harder!&rdquo;
+
+<p>&bdquo;D&apos;r vader is d&apos;r tegen. Versta-je?&rdquo;
+
+<p>.... &bdquo;D&apos;r tegen?.... Is die man gek?.... Is die man gek? Tegen jou?.... Tegen <pb id=pb55 n=55 facs="f:058">jou?.... Hè-&apos;k heelemaal den naam niet gevraagd!.... Is die man gek!&rdquo;
+
+<p>.... &bdquo;&apos;t Is &apos;n christenmeisje, tante! Daar zit &apos;m de knoop!&rdquo;
+
+<p>&bdquo;Wat zè-je? Watte? Heb niet goed verstaan!&rdquo;
+
+<p>&bdquo;&apos;t Is Dora Daanders! Daanders, de houthandelaar! Ken je toch wel tante?&rdquo;
+
+<p>Langzaam gleed een intense verbazing over &apos;t gerimpeld gezichtje, een ongeloovige glimlach, een knipperen van de oogleden alsof ze de grap doorzag.
+
+<p>.... &bdquo;Malle jongen! Een oud mensch voor de gek te houden! Wil-je nog &apos;n stuk kiks? Lekker is ze, hè?&rdquo;
+
+<p>&bdquo;Dank u! Tante, &apos;t is geen gekheid. Versta je me? &apos;k Vat wel da-je d&apos;r tegen bent maar als je Dora zag, als je d&apos;r hoorde....&rdquo;
+
+<p>Tante&apos;s kopje bibberde rinkelend tegen &apos;t bakje. Strak, met wijd geopende pupillen keek ze den neef aan. De onderkaak bewoog zich zenuwachtig, in een zoeken naar driftige woordjes.
+
+<pb id=pb56 n=56 facs="f:059"><p>.... &bdquo;Jij? jij!.... De dochter van zoo&apos;n haurik!<note n=1>Iemand met een gemeen karakter.</note> ... Jij overloopen naar de Gojjem<note n=2>Gebruikelijke naam voor christenen.</note>.... Wat, wou jij dat doen?.... De zoon van &apos;n parnes!<note n=3>Hoofd van de gemeente.</note>.... Adonoi!<note n=4>God.</note>.... Mo&apos;k dat beleven!&rdquo;
+
+<p>&bdquo;Tante win je nou niet op!&rdquo;
+
+<p>&bdquo;Wat zè-je?&rdquo;
+
+<p>&bdquo;&apos;k Hou van d&apos;r tante. Je weet da&apos;k niks om &apos;n geloof maal.... Wor d&apos;r nou niet boos om!....&rdquo;
+
+<p>.... &bdquo;Jij &apos;n gojje trouwen? Weet jij toch ook, hoe wij, arme Jidde<note n=5>Joden.</note>, geleeje hebben! Hoe ze ons trappen!.... Mot je me dat op m&apos;n ouwe dag andoen?.... Hoef jij hier niet meer te komme!.... Is &apos;t uit tusschen ons.... Uit!....&rdquo;&mdash;Bevend was ze opgestaan en wees naar de deur:&mdash;&bdquo;&apos;k <pb id=pb57 n=57 facs="f:060">Hà-gedacht, da-je me blij wou maken... Als j&apos;n gojje trouwt.... krijg je geen cent van me.... geen cent.... niet zooveel om &apos;n hemp van te koopen!....&rdquo;
+
+<p>Met een gevoel van pijn keek de jonge man naar &apos;t driftige menschje. &apos;t Speet hem, dat ze &apos;t zich zóo aantrok. Toch gistte er langzaam een venijnige bitterheid in zijn hart. Vooral bij &apos;t laatste dreigement steeg hem &apos;t bloed naar &apos;t hoofd. Heftig sloeg hij met de vuist op de tafel, dat de kopjes kletterden. Maar hij werd zich weer meester, nam bedaard zijn hoed, schreeuwde in den hoorn, dat hij er nog eens over denken zou en ging snel heen.
+
+<milestone unit=tb>
+
+<p>Op straat barstte zijn verkropte spijt los. Met &apos;t ouwe mensch lag hij nu overhoop.
+
+<p>Met Dora&apos;s vader was &apos;t gegaan, zooals Karel vermoed had. Grimmig had Daanders geweigerd Max te ontvangen. &bdquo;Als je vriend &apos;n jood is, kun j&apos;m thuis laten!&rdquo; had het driftig <pb id=pb58 n=58 facs="f:061">geluid; en toen Karel over de goede hoedanigheden van zijn vriend had uitgeweid, over zijn knapheid, zijn rijkdom, was het antwoord geweest: &bdquo;Ja, ja, dat ken &apos;k allemaal. Maar al was ie &apos;n prins, joden wil &apos;k niet over m&apos;n vloer. Basta.&rdquo;
+
+<p>Alles kantte zich dus tegen zijn voornemen. Een zwartgallige loomheid schokte hem neer. Hij twijfelde. Deed hij goed?.... Mocht hij die eeuwenoude, ingewortelde, ingekankerde geloofswetten overtreden? Was het joodsche volk blind geweest al die tijden? Waarom had het, verdrukt, getergd als het werd, zich zoo heftig aan zijn vormen vastgeklampt? Was het enkel fanatisme, ingezogen met de moedermelk; waren al de verlichte joden huichelaars geweest, transigeerend met hun mooiste opwellingen?.... Zijn heele <corr sic=vrijzinige>vrijzinnige</corr> wezen twijfelde plotseling, met een wegzinken van den bodem van al zijn ideale denken van vroeger.
+
+<p>Buiten de stad gekomen, herstelde hij zich. <pb id=pb59 n=59 facs="f:062">In den donkeren nacht schitterden ontelbare sterren, hel-blinkend blauw licht. Hij bleef staan, machtig aangetrokken door die groote Majesteit en zijn armen opheffend naar den hemel, herkreeg hij plotseling al zijn geestkracht, den lust om door te zetten, den moed om die kleingeestige banden der menschen te breken.
+
+
+
+
+
+<div1 id=ch3 n=III>
+<head>III<corr>.</corr></head>
+
+
+<p>De deur van den coupé eerste klasse slaat dicht. De conducteur laat met een stil lachje het geldstuk in zijn zak glijden, &apos;t zooveelste van paartjes, die &apos;t liefst in d&apos;eenzaamheid de woorden van den man van den burgerlijken stand overdenken. De bel rinkinkelt, &apos;t schelle fluitje van den treinchef snerpt, de trein zet zich in beweging, stoomt het station uit en ploft in toenemende ruzemoezige vaart in &apos;t donker, buiten.
+
+<pb id=pb60 n=60 facs="f:063"><p>Alleen! alleen op de mollige kussens van den domp verlichten coupé. Alleen! Man en vrouw. Hij kijkt haar aan. Door de golvende schuddingen der voile, schemert haar mooie kopje; het manteltje hangt open; de omtrekken der bruid teekenen zich onschuldig in de plooien van &apos;t reiskleed, toonend het slanke bovenlijf, de rondingen der knieën. Als ze de voile terugslaat, ziet hij &apos;t fijne profiel, de rozige lippen. Met een opbruising van hartstocht neemt hij haar in zijn armen, drukt haar tegen zich aan, perst zijn lippen op de hare in een zinneloos, warmen kus en even plotseling laat hij haar glippen, angstig, verschrikt....
+
+<p>&bdquo;Dora! Dora!....&rdquo;
+
+<p>&bdquo;Niets, niets.... &apos;n gekheid.... &apos;n angst... Nee wees niet boos.... Nou lach ik weer!&rdquo; Maar de tranen glijden toch verraderlijk over de hooggekleurde wangen.
+
+<p>Weer omvat hij haar onstuimig, tilt haar op zijn knie, kust de tranen uit haar oogen, <pb id=pb61 n=61 facs="f:064">kust den kleinen mond en met een blik vol teerheid fluistert hij haar zoete woordjes toe: op hem te vertrouwen, niet zenuwachtig te zijn. Sneller gaat haar adem, hijgt haar boezem. Ze klemt zich aan hem vast, beantwoordt zijn liefkoozingen en kijkt hem in de oogen met de volle eerlijkheid van haar reine, jonge wezen. Dan tegen hem aangeleund, met zijn arm om haar middel, zegt ze snel, hartstochtelijk:
+
+<p>&bdquo;... Ach God... &apos;t Was zoo bitter, Max<corr sic=.>,</corr> zoo hard. Op zoo&apos;n dag bij vreemden!.... Zul je altijd van me houën?... Altijd? Evenveel?... Nee zoen me niet... &apos;t Maakt me zoo angstig, da&apos;k zoo alleen met je wegga... da&apos;k met vader gebroken heb... met moeder... Herinner jij je &apos;t nog?... Weet je nog?... Dat zal ik nooit vergeten... Vader voor &apos;t kantongerecht... en ik... Dat was vreeselijk!... &apos;t Moest... &apos;t Moest... maar dan moet je niet boos zijn als ik even huil... &apos;t Schoot me juist te binnen... Nu <pb id=pb62 n=62 facs="f:065">is &apos;t over... Nu ben je m&apos;n heele geluk, m&apos;n vader, m&apos;n moeder, m&apos;n álles!... Als je wist hoe &apos;k van je hou, m&apos;n Max... m&apos;n man!...&rdquo;
+
+<milestone unit=tb>
+
+<p>Van de huwelijksreis keerden ze terug in een tinteling van ongekend geluk, elkander naar de oogen ziend, elkanders gedachten radend.
+
+<p>&apos;t Huis met zijn versch behang, zijn reuk van nieuw goed, zijn stijve properheid, wachtte hen als een warm, prettig nestje, waarin ze zich de eerste maanden verkneuterden, vertroetelden, opgaande in de hoogheid van hun liefde. Toen begon zijn praktijk toe te nemen. &apos;t Leitje in de gang, beneden, werd meer en meer beschreven. Dokter reed soms uren lang rond, thuiskomend met een opgewekt gezicht, blij na den arbeid, &apos;t jonge, knappe wijfje in zijn armen te kunnen nemen. Als ze &apos;t rijtuigje hoorde aanrollen, stond ze op de teenen voor &apos;t raam, haar neusje platdrukkend tegen de ruiten, om haar <pb id=pb63 n=63 facs="f:066">man te zien uitstappen, trotsch op hem. Maar toen er meer en meer patiënten kwamen, vooral armen, sloop er een langzame verveling in haar hartje. Zonder Max scheen &apos;t huis uitgestorven, doodsch; en de werkzaamheden in &apos;t kleine huishouden waren zoo gering, dat &apos;t vrouwtje &apos;t grootste gedeelte van den dag zonder bepaalde bezigheden was. Soms kwam Karel onverwacht binnenstuiven, bekeek met schuwe nieuwsgierigheid al de mooie dingen in de huiskamer&mdash;&apos;t grootste contrast met zijn slordig studeervertrek&mdash;zette voorzichtig zijne groote voeten op &apos;t tapijt, draaide onhandig zijn dikken stok, voelde zich blijkbaar niet thuis in die atmosfeer van gezelligheid en jong huwelijksleven. Soms ook kwam Aby&mdash;een deftige meneer met een groote vlassnor,&mdash;bleef uren met den dokter praten over kleine pleidooien, die hij in pro-deootjes gevoerd had, sprak veel over politiek, meestal heftig met een sterk rood, radikaal tintje en verveelde ten slotte de <pb id=pb64 n=64 facs="f:067">jonge vrouw door zijn drukke argumentatie en zijn breedsprakige uitweidingen over dingen, die ze niet begreep, of die haar niet interesseerden.
+
+<p>Maar dat alles was heerlijk, vergeleken bij die uren alleen. Die waren verschrikkelijk. Ze trachtte te lezen, maar met de zenuwachtige ongedurigheid aan jonge vrouwen eigen, had ze geen rust om zich lang bij &apos;tzelfde te bepalen. Met de zekerheid, dat ze moeder worden zou, nam ook haar prikkelbaarheid toe. Uren lang kon ze in een armstoel liggen, droomend, denkend aan vreemde dingen, met een vagen angst voor &apos;t jonge leven in zich.
+
+<p>Dikwijls was ze zwaarmoedig, spookte een onrust in haar, een stille wroeging, een verlangen om weer met vader en moeder verzoend te raken. Elken dag kwam &apos;t gevoel drukkender weer, dat er een onheil dreigde en die strijd teekende zich ten slotte op haar smal, bleek gezichtje. Max sprak nooit <pb id=pb65 n=65 facs="f:068">over de breuk met haar ouders. In &apos;t begin, pas teruggekeerd, had hij een briefje geschreven in hartelijke termen. Geen antwoord was gekomen. Daanders bleef onverzoenlijk, de moeder kende geen anderen wil, dan dien van haar man.
+
+<milestone unit=tb>
+
+<p>Zes maanden waren ze nu getrouwd. &apos;t Was zomer, &apos;n mooie Zondag. Een rijtuigje hield stil. De bel ging over.
+
+<p>Max keek door het spion. Met een gezicht vol verbazing keerde hij zich naar zijn vrouw.
+
+<p>&bdquo;.... Doortje.... raad eens!.... tante!&rdquo;
+
+<p>Haastig boog ze haar hoofdje naast &apos;t zijne en met groote nieuwsgierigheid bespiedden de vier oogen de bewegingen van &apos;t vrouwtje, dat geholpen door haar meid, &apos;t rijtuig uitzakte, over de stoep strompelde en &apos;t huis binnentrad.
+
+<p>.... &bdquo;Die goeje ziel!,&rdquo; riep nu Max in een opwelling van hartelijkheid: ... &bdquo;zij doet den eersten stap.... Da&apos;s aardig!.... Doortje, <pb id=pb66 n=66 facs="f:069">denk, dat ze m&apos;n tweede moeder is....&rdquo; Haastig ging hij de oude vrouw tegemoet.
+
+<p>&apos;t Menschje hapte naar adem, met korte stootende trekjes, toen ze binnen kwam. &apos;t Uitstapje had haar zoo vermoeid, dat ze een paar minuten bleef hijgen, met knippende oogleden.
+
+<p>Eindelijk kwam er &apos;n asthmatiek geluid:
+
+<p>&bdquo;Is dát je vrouw?&rdquo; vroeg ze, hard, onaangenaam, met &apos;n stem aan dooven eigen.
+
+<p>&bdquo;Ja!&rdquo; schreeuwde Max.
+
+<p>Aarzelend kwam Dora naar &apos;t gerimpeld menschje, gaf haar op elk der tanige koonen een zoen.
+
+<p>.... &bdquo;Soo, soo, is dát je vrouw!.... lijkt wel wat op je moeder <foreign lang=he-Latn>oleve schonoe</foreign><note n=1>Zaliger nagedachtenis.</note>.... Soo-soo, soo.... zeg je wat?&rdquo;
+
+<p>&bdquo;&apos;k Ben blij u hier te zien, tante....&rdquo;
+
+<p>&bdquo;Wat zeit ze! Harder, &apos;k ben &apos;n beetje doof!...&rdquo;
+
+<pb id=pb67 n=67 facs="f:070"><p>Max herhaalde den welkomstgroet.
+
+<p>.... &bdquo;Soo, soo, soo.... &apos;k heb niet langer zonder je gekend.... Da-wil &apos;k wel weten. Toen heb ik met Rika gesproken.... Die zei ja!.... Is dat moe zijn! Uche.... uche... uche.... &apos;k Wou d&apos;r toch ook eens zien voor me dood...&rdquo;
+
+<p>&bdquo;&apos;t Doet me groot genoegen, dat u gekomen bent, tante.... Max heeft me dikwijls over u gesproken....&rdquo;
+
+<p>&bdquo;Je hoeft zoo niet te schreeuwen, zoo doof ben ik niet!...<corr>&rdquo;</corr>&mdash;Ze lachte valschjes&mdash;&bdquo;Soo, soo!... Wel!... wel... &apos;k was op de brezemiele<note n=1>Besnijdenisfeest.</note> van &apos;t kind van Naatje en &apos;k dacht nou most ik maar &apos;s gaan... Soo... soo... soo... jullie woont hier heel netjes... da-mo-&apos;k zeggen...&rdquo;
+
+<p>Dora was opgestaan, had een keurig likeurkeldertje geopend.
+
+<p>&bdquo;Wil u &apos;n glaasje madera, port of sherry, <pb id=pb68 n=68 facs="f:071">tante? We zullen dan eens op &apos;t eerste bezoek klinken!...&rdquo;
+
+<p>.... &bdquo;Drinken, nee... dank je!....&rdquo;
+
+<p>&bdquo;&apos;k Heb &apos;t al ingeschonken... Bij &apos;n eerst bezoek mag u niet weigeren.&rdquo;
+
+<p>&bdquo;Nee &apos;k drink niks. Max weet wel waarom?&rdquo;
+
+<p>Dora begreep &apos;t niet.
+
+<p>.... &bdquo;Weet Max waarom? Foei, tante, da&apos;s niet mooi iets af te slaan.... juist nu....&rdquo;
+
+<p>&bdquo;Max weet &apos;t wel.... Max weet &apos;t wel. Wij joden gebruiken niks bij.... nou ja.... je zult &apos;t ook wel weten... niks bij vreemden... geen spoog water....&rdquo;
+
+<p>&apos;t Werd botweg gezegd, zonder een bepaald hatelijke bedoeling, maar &apos;t gaf toch een pijnlijke gaping in &apos;t gesprek. Dora&apos;s gezichtje betrok.
+
+<p>.... &bdquo;&apos;t Is morgen jaartijd van je oom, Max....&rdquo;
+
+<p>.... &bdquo;Zoo, tante.&rdquo;
+
+<p>&bdquo;Was je zeker vergeten?&rdquo;
+
+<p>&bdquo;Nee heusch niet.&rdquo;
+
+<pb id=pb69 n=69 facs="f:072"><p>&bdquo;Lichtjes zal je wel niet voor &apos;m branden.... da-begrijp &apos;k... Most je naar &apos;t graf gaan, wil je?&rdquo;
+
+<p>&bdquo;Zeker, zeker, &apos;k zal u vandaag niks weigeren.&rdquo;
+
+<p>&bdquo;Soo, soo, soo.... &apos;t Is hier heel aardig.... D&apos;r zal wel haast &apos;n kleintje kommen, hè? Nou kleur maar niet! Weet je wat de Jidde<note n=1>Joden.</note> zeggen, kind?.... <foreign lang=he-Latn>Peroe Oerewoe Oemilloe es hoöres</foreign><note n=2>Gaat en vermenigvuldigt u.</note>. Zeg d&apos;r maar eens wat &apos;t beteekent, Max.... Ja, hij heit &apos;n goeje opvoeding gehad.... Hij weet nog álles van z&apos;n geloof, al doet-ie d&apos;r niks meer an... Heb-ie &apos;t &apos;r gezegd?&rdquo;
+
+<p>Max hield zich alsof hij de verklaring gaf, maar voelde zich gegeneerd, dat tante zoo weinig kieschheid toonde, zoo weinig tact, om zekere onderwerpen nu maar liever te laten rusten.
+
+<p>&apos;t Menschje bleef voor haar doen druk <pb id=pb70 n=70 facs="f:073">doorpraten. Haar oogjes gingen glinsterend van haar vroegeren oogappel naar de opgedrongen nicht. Ze begreep niet, wát Max in dat christenmeisje zag. Had hij niet even goed een van &apos;t eigen geloof kunnen nemen, even mooi, misschien met nog meer geld?....
+
+<p>Toen ze eindelijk heenging, keerde ze zich bij de deur aarzelend om:
+
+<p>&bdquo;Jullie motten nou ook maar eens bij mijn kommen.... Sjabbesavond of zoo, hoor je?....&rdquo;
+
+<p>Over &apos;t ophaalbruggetje treedt de jonge dokter op &apos;t kerkhof. Hoog aan den hemel glanst de zon, blakert den grond met zijn inhoud. Gras, vertrapt, verschroeid, schiet welig tusschen de aardkluiten. Een enkel struikje sprankt dorre bladen als stikkend in de heete lucht. Naar achteren stompen treurwilgen triestig op, loom, met takken, die slap, gebroken neerbengelen, zonder geritsel of beweging. &apos;t Is heet, gloeiend heet. &apos;t <pb id=pb71 n=71 facs="f:074">Kerkhof ligt als een verschrompeld stuk land, als een afgebeuld uithoekje, snakkend naar water. De zoete, laffe, misselijke stank, die op een zomerdag over een doodenakker dampt, hangt als een half-opgeslurpte mist over de graven, de reuk van een mesthoop. Warm is het, schrikkelijk warm. Blauwe vliegen, brommend, met groote, dik-doorvoede lichamen, dwarrelen spichtig-gonzend van de eene plek naar de andere. Een vlinder fladdert, huppelend schietend en vallend, zoekend een bloempje ergens bij een graf. Steil staan de bestofte, witgekalkte zerken op &apos;t land, rechtop als ze pas geplaatst; schuin, uitgezakt, verbrokkeld, als de doode goed dood, vergeten, verteerd. Schaduwtjes vallen in egale figuurtjes wat langer of wat dikker op &apos;t gras, alle naar éen kant. In de sloot, tusschen drabbig, vuil groen, dik gekorst kroos, kwaakt een kikker, met schreeuwtjes, die rochelend wegsterven. Alles gloeit op &apos;t kerkhof als een bakkersoven. De grond brandt <pb id=pb72 n=72 facs="f:075">met mul zand in looppaden, zand dat wegschuift, kuiltjes vormend, dikbuikig, die weer volplassen achter de voeten van den wandelaar. Een kat plonst plotseling weg van achter een zerk, rent in een angstigen zwaai naar den steenen muur, vliegt er op, kijkt om met groote, groene oogen, blijft wantrouwend den man aangluren. Nu wuift er een windhapje door de boomen; de zoete reuk wijkt even. Dan is &apos;t weer stil, stort de kokende hitte weer neer, drukkend, ontzenuwend, bakkend den grond met zijn harde groen en zijn puffende steenen.
+
+<p>Max heeft &apos;t graf gevonden, dat hij zelf, als kind heeft helpen vullen. Leunend op zijn stok, kijkt hij peinzend naar &apos;t vierkante, wegzakkende monument, &apos;t eenige teeken, dat &apos;t geel-verdroogde manneke, dat hem nog slechts flauw in &apos;t geheugen ligt.... geleefd heeft. Onder de zode een vermolmde kist.... in die kist.... Wat &apos;n kerkhof toch &apos;n sombere gedachten verwekt!.... Zoo&apos;n beenderbewaarplaats!... <pb id=pb73 n=73 facs="f:076">Waar zijn de skeletten van die millioenen, die óok eens leefden? Wat zegt dat lijden en worstelen, dat denken, vooral dat denken, als je na zooveel tijd, misschien dadelijk, ook aan de beurt bent, om begraven te worden met een steentje op je graf, dat je geboren werd.... toen!... en gestorven bent.... toen! En na jaren ruimen ze je heelemaal op, omdat je lang genoeg gelegen hebt, omdat ze je plaats voor &apos;n ander noodig hebben en wor je ergens neergekwakt in een kuil bij andere beenderen, beenderen van schooiers, ploerten, huichelaars, van denkers, van mooie wezens.... alles bij elkander in een grooten hoop van muffe, poreuze stukken.... of je wordt....
+
+<p>Max rilt even, lacht dan flauwtjes. Ziet hij niet dagelijks menschen wegsterven? Hoeveel attesten teekende hij niet? In Godsnaam.... hij dan ook! Als ze hem maar niet begraven op zoo&apos;n snikheeten dag. Hij veegt zich &apos;t voorhoofd af.
+
+<pb id=pb74 n=74 facs="f:077"><p>Verder slentert hij, loopt over de graven heen, zoekend naar twee andere zerken, de aanwijzing van &apos;t gebeente zijner ouders. Daar staan ze.... Kremer en hiëroglyphen er om en er naast, met &apos;t joodsche jaartal.... 5625.... vijf duizendtallen... Als hij ze eens gekend had.... Als.... Was dat niet mooi &apos;n eigen moeder.... &apos;n moeder! Nooit had hij haar gezien met oogen die begrepen.... Als Dora moeder werd, zou hij haar nóg meer liefhebben, aanbidden als &apos;n heilige, om de smart die ze voor zijn kind zou doorstaan. Goeje God, wat is je wereld toch mooi en rijk, al ben je op &apos;n kerkhof.... als je vader wordt.... Vader! Wat beteekent &apos;n graf? Daar lach je om! Je leeft! Je geniet! Je bloed is warm. Je hebt al die zon voor je zelf alleen!.... Vader! Je hebt &apos;n kind van je eigen vleesch, van je eigen bloed! Wat is nou &apos;n kerkhof? Later zal je zoon of dochter ook bij je graf staan, zullen ze ook angstig zijn, morren dat je dood bent, maar dan lèven die toch en <pb id=pb75 n=75 facs="f:078">dat léven hebben ze aan joù te danken!.... Naast elkaar liggen ze, z&apos;n ouders. Dat&apos;s poëtisch. &apos;t Is &apos;n malligheid, toch is &apos;t mooi! Als hij sterft moeten z&apos;m naast Dora leggen.... Da&apos;s &apos;n gedachte, die je zacht stemt, kinderachtig, da-je zou willen huilen.... Hier zal &apos;t niet zijn.... Wat beteekent de plaats?.... Hier niet!..... Nee!.... Alles op deze eenzame plek wijst op dogmatieke kleinheid, op &apos;t vastklampen aan &apos;n vorm. Hier staan steenen leunend tegen ijzeren stangen..... ginds kruisen!.... Da&apos;s toch &apos;n dwaasheid, &apos;n bijgeloof, dat &apos;t eene skelet een staande zerk, &apos;t ander een kruis, &apos;n derde niks boven zich heeft.... En al de heetbloedige argumenten van zijn dispuutavonden vliegen hem naar &apos;t hoofd. Onwillekeurig schiet hem de begrafenis van &apos;n zeeman te binnen, &apos;n plechtigheid, die hij eens bijwoonde. Plomp zei de zak. D&apos;r kwam &apos;n kronkeling van rimpels op &apos;t water. &apos;t Lijk was weg. Was dat niet beter, edeler dan op &apos;n kerkhof te liggen als een dor iets <pb id=pb76 n=76 facs="f:079">met &apos;n teeken van fanatisme boven je?....
+
+<p>Max wandelt voort. Met zijn stok schopt hij steentjes en takjes weg. De zon zendt nu haar stralen loodrecht neer, &apos;t wordt ondragelijk warm. Droomerig kijkt de jonge dokter naar den grond, die een zee van denken, jammer, pijn, ellende, vreugde, bedrogen illusiën, bange worsteling inhoudt.... allen afstammelingen van &apos;n volk, dat vervolgd werd en wordt om &apos;n menschelijk wanbegrip, om &apos;n rassenhaat. O die rampzalige geloofswaan!....
+
+<p>Boven hangt de hemel in z&apos;n dikke, blauwe zwaarte. Witte vlokken kartelen er nevelig doorheen. &apos;t Is of &apos;t heele wolkengevaarte naar beneê zal storten, opslokken &apos;t kleine plekje grond.
+
+<p>Max gaat naar &apos;t bidhuis terug.
+
+<p>Zweetend in al zijn poriën blijft &apos;t kerkhof achter: de groote, gapende muil van &apos;n nooit moe gevreten ondier, vuilen adem hijgend uitstootend, wachtend op nieuwe offers, die onder gezang en ceremonietjes in zijn vette kaken zullen neergesmeten worden.
+
+<pb id=pb77 n=77 facs="f:080"><p>De kat ploft van den muur af, holt met snelle pootbewegingen over de graven. De vlinder heeft zich vastgezogen aan een bloem, klepperend met de vleugeltjes.
+
+<milestone unit=tb>
+
+<p>Als Max op den Zeedijk op de tram springt staat hij plotseling voor den ouden Daanders. De ontmoeting is even onverwacht als pijnlijk. De oude heer trekt driftig de wenkbrauwen samen, opent de deur, trekt die heftig achter zich dicht en neemt binnen plaats.
+
+<p>De indrukken van &apos;t kerkhof liggen den schoonzoon versch bij. Een weeke mildheid drijft in hem boven. Hij vindt &apos;t nu nog treuriger met Dora&apos;s ouders gebroken te zijn. Hij wou graag &apos;t zijne doen....
+
+<p>Daanders zit, binnen, in zichzelf gekeerd, heel alleen. Zijn schoonzoon ziet er uit als een fatsoenlijk man. Overal hoort hij hem roemen om zijn menschlievendheid en zijn kunde. Maar dat Dora &apos;t zóover gedreven heeft hem, haar vader, voor het kantongerecht <pb id=pb78 n=78 facs="f:081">te laten komen.... dàt kon hij nooit vergeven. En da&apos;s de schuld van die daar, die met al zijn netheid toch &apos;n jood blijft... &apos;n jood!....
+
+<p>Wat &apos;n brutaliteit!.... de jonge man heeft de deur geòpend en komt recht op hem toe. Daanders hoort &apos;n paar woorden, stuift op, bleek van woede, gaat de voordeur uit, laat Max alleen. De laatste is bloedrood geworden.... Nu is &apos;t genoeg! Die ouwe stijfkop met zijn domme, kleingeestige ideeën!...
+
+<milestone unit=tb>
+
+<p>.... &bdquo;Moeder ben je &apos;t zelf!....&rdquo;
+
+<p>&bdquo;Sust, kind, sust! Is je man niet thuis?&rdquo;
+
+<p>&bdquo;Max.... nee!... O God wa-ben-&apos;k blij je te zien!&rdquo;
+
+<p>De twee vrouwen omarmen elkander, met tranen in de oogen.
+
+<p>.... &bdquo;Zie je.... &apos;k heb &apos;t haast niet gedurfd voor je vader. Maar &apos;k dacht, da-&apos;k-&apos;t nou maar eens in stilte doen most.... Wat zie je bleek...&rdquo;
+
+<pb id=pb79 n=79 facs="f:082"><p>.... &bdquo;Wat ben ik blij.... wat ben ik blij!... &apos;k Heb in die negen maanden zoo naar je verlangd!... Ja, da&apos;s de luiermand.... Wat zeg je van die snoezige hempies?...&rdquo;
+
+<p>&bdquo;Lief... dodderig!...&rdquo;
+
+<p>&bdquo;En kijk die kousjes eens... &apos;t Zal &apos;n jongen wezen.... Daar bè-&apos;k zeker van. O God wat ben &apos;k nou blij!...&rdquo;
+
+<p>&bdquo;Win je maar niet op... Wel, wel wat is &apos;t hier lief... Wat een mooi uitzicht... en kijk net de kerk over jullie deur!.... Zeg kind, lang blijf &apos;k niet. Als vader &apos;t merkt, da&apos;k hier ben.... Lieve God je kent &apos;m...&rdquo;
+
+<p>&bdquo;Laat hij voor eenmaal boos zijn.... &apos;t doet me zoo goed da&apos;k je weer &apos;s zie. Je bent dik geworden, moeder.&rdquo;
+
+<p>&bdquo;Enne, enne, bè-jij gelukkig? Is je man goed voor je?....&rdquo;
+
+<p>&bdquo;&apos;n Engel, moeder. &apos;k Hou elken dag meer van &apos;m.&rdquo;
+
+<p>&bdquo;Dat doet me pleizier. Wèl zeker d&apos;r zijn ook wel goeje joden-menschen op de wereld... <pb id=pb80 n=80 facs="f:083">Wel, wel, wat is hier alles lief!... Hè-j&apos;al &apos;n baker?...&rdquo;
+
+<p>.... &bdquo;Max heeft voor alles gezorgd. Als &apos;t &apos;n jongen is, zal &apos;k &apos;m Dirk noemen, naar vader.... als Max &apos;t hebben wil.&rdquo;
+
+<p>&bdquo;Enne, enne,.... als j&apos;m dan doopen liet....&rdquo;
+
+<p>&bdquo;Wat zei je, moeder?&rdquo;
+
+<p>&bdquo;Als j&apos;m doopen liet....&rdquo;
+
+<p>&bdquo;Dat doen we niet, da-begrijp je toch moeder!&rdquo;
+
+<p>.... &bdquo;Begrijpen?.... Nee, begrijpen doe&apos;k &apos;t niet... Kijk... as je dat doet, is &apos;t misschien nog goed te maken met je vader... Zie je z&apos;n trots is d&apos;r tegen, om &apos;t eerst bij je te komen. Maar as &apos;t &apos;n jongen is en j&apos;m Dirk noemt en j&apos;m doopen laat, dan ben &apos;k wel zoo goed as zeker....&rdquo;
+
+<p>&bdquo;Daar komt niks van in, moeder. &apos;k Heb er nooit met Max over gesproken, maar &apos;k ben zeker dat-ie d&apos;r niks van weten wil.&rdquo;
+
+<p>&bdquo;Nou &apos;t was maar &apos;n gedachte van me. <pb id=pb81 n=81 facs="f:084">Je neemt &apos;t me niet kwalijk? Zie je, kinderen zonder godsdienst groot te brengen, daar groeit niks goeds van. Enne.... enne.... as j&apos;t met je vader in orde kon brengen.... zou &apos;k hier kunnen zijn as &apos;t zoover is....&rdquo;
+
+<p>&bdquo;Nee moeder, dat vraag &apos;k Max nooit. M&apos;n man en ik spreken nooit over geloof. Ach toe laten we d&apos;r niet verder over spreken, wil je? Is vader gezond?....&rdquo;
+
+<p>&bdquo;Best, maar stil, erg stil en grijs geworden.&rdquo;
+
+<p>.... &bdquo;&apos;t Was vreeselijk pijnlijk voor me moeder. Maar hij bleef weigeren. &apos;k Kon toch niet tot m&apos;n dertigste wachten....&rdquo;
+
+<p>&bdquo;Affijn, da&apos;s nou weer haast vergeten. Soms zeg &apos;k &apos;m: &bdquo;Maak &apos;t maar goed, Dirk...<corr>&rdquo;</corr> &apos;t is een nette jongen en d&apos;r zijn toch ook wel goede jodenmenschen op de wereld.... maar dan word-ie boos. &apos;s Jammer da-j-&apos;t kind niet doopen laat! Erg jammer!.... Nee, nee, nee, &apos;k zal d&apos;r niet verder over <pb id=pb82 n=82 facs="f:085">spreken. &apos;t Is hier erg lief.... heel lief. Hé, hangen daar onze portretten? Da&apos;s braaf van jullie. En wat &apos;n mooi schoorsteen-garnituur heb je daar!.... Hoeveel kamers heb je hier in huis?.... Heb-ie &apos;n goeje meid? Antje is weg. Die scharrelde met &apos;n marinier.... &apos;k heb d&apos;r nou wel al zes gehad.... die booje.... die booje!.... Wat &apos;n snoes van &apos;n wieg.... Ach Gut, daar heb ik nou nooit de zorg voor gehad!...&rdquo;
+
+<milestone unit=tb>
+
+<p>Den volgenden dag, &apos;n Vrijdag, ging &apos;t jonge echtpaar bij tante Kremer eten. Rika had zich uitgesloofd; &apos;t heele huis rook naar gebraden vleesch.
+
+<p>Heel opgewekt was de tafel niet. &apos;t Was de eerste maal, dat ze de gasten waren van &apos;t oude wijfje, en tante, met de hardnekkigheid aan oude menschen eigen, scheen er een kindsch vermaak in te scheppen alle Vrijdagavond-vormen nog nauwgezetter dan anders waar te nemen.
+
+<pb id=pb83 n=83 facs="f:086"><p>&bdquo;Zie je,&rdquo; begon ze, &apos;t woord tot Dora richtend: &bdquo;je mot niet vergeten, da-je hier bij joden bent. Daar schaam ik me niks voor. &apos;k Heb me d&apos;r altijd an gehouën. Kom Max, maak jij eens brooge<note n=1>Zegening tot inwijding van den Sabbath of tot wijding van het eten.</note>....&rdquo;
+
+<p>&bdquo;Brooge! Brooge!&rdquo; lachte hij hardop: &bdquo;tantelief hoe kun je mij dat nou vragen. Dat heb &apos;k in geen twaalf jaar gedaan. Da-ben &apos;k al lang vergeten!&rdquo;
+
+<p>&bdquo;Nie-waar! Niewaar!&rdquo; zei &apos;t vrouwtje snibbig: &bdquo;zeit-ie dat-ie &apos;t vergeten is? Nou sjeneert-ie zich voor jou.... Kom sjeneer je niet.... Je vrouw weet toch ook wel, dat jij &apos;n jood bent!&rdquo;
+
+<p>Max werd korzelig.
+
+<p>&bdquo;&apos;k Ben &apos;t vergeten, laat me toch niet alles tweemaal zeggen!&rdquo; schreeuwde hij in den hoorn.
+
+<p>.... &bdquo;Soo, soo, soo.... hij kan niet meer brooge zeggen.... soo, soo, soo!&rdquo;
+
+<pb id=pb84 n=84 facs="f:087"><p>Tante bad alleen.
+
+<p>Dora fluisterde een &bdquo;Heere, zegen deze spijs, amen&rdquo;.... en de soep werd opgedragen, krachtige soep met dansende vetkringetjes er in, sterk gekruid met foelie.
+
+<p>&bdquo;Da&apos;s nou jodesoep.... nou zal j&apos;s &apos;n soepie proeven,&rdquo; zei tante, terwijl ze de helft van haar lepel morste en dit regelmatig bij iederen schep bleef doen.
+
+<p>Na de soep kwamen gekookte asperges drijvend in gebraden vet. &apos;t Smaakte Dora in &apos;t geheel niet, maar toen ze om een klontje boter vroeg, trapte Max haar zachtjes op den voet. Na de asperges twee dampende schotels, de een met zoet gestoofde bloemkool, de ander met onmogelijk sterk gekruide zwezeriken, alles weer zwemmend in &apos;t vet. Daarna rostbeaf, tot slot een pudding ook weer in &apos;t vet gebakken. Rika kwam afruimen, mengde zich elk oogenblik in &apos;t gesprek, met al de beweeglijkheid en familiariteit van &apos;n meid, die de meesteres onder de plak heeft.
+
+<pb id=pb85 n=85 facs="f:088"><p>&bdquo;Laat d&apos;r nou niet zooveel praten jongeheer,&rdquo; zei ze, druk met de borden rinkelend en &apos;t vet van haar vingers likkend: &bdquo;anders heb ik van nacht maar weer de last met d&apos;r....&rdquo;
+
+<p>&bdquo;Steek je geen sigaar op?&rdquo; vroeg &apos;t jonge vrouwtje verwonderd, toen Max onrustig op de tafel bleef trommelen, nadat er afgeruimd was. Ze wist hoe hij op die eene sigaar na &apos;t eten gesteld was. Hij knikte van neen en knipte lachend met de oogleden in de richting der oude vrouw. Dora lei &apos;t verkeerd uit.
+
+<p>&bdquo;Kunt u niet tegen rooken?&rdquo; riep ze in den hoorn.
+
+<p>&bdquo;Wat zè-je? Rooken? Van avond rooken! Hoor is, d&apos;r wordt bij mijn op Sjabbes niet gerookt, hoor je Max!&rdquo;
+
+<p>Weer lachte hij met een verlegen lachje. Maar de avond ging niet om, zonder verdere vermaningen van het menschje, toen Dora in de kachel pookte, toen ze afgetrokken een stuk van de krant afscheurde, toen ze &apos;t vlammetje <pb id=pb86 n=86 facs="f:089">onder den theeketel zelf aanstak en al die dingen meer, die de vrouw van haar neef niet op Sjabbes bij haar doen mocht.
+
+<p>Vanzelf kwam &apos;t gesprek op de groote gebeurtenis, die zoo spoedig volgen moest. Tante was uit haar dutje ontwaakt, tot groot leedwezen van den dokter, die zijn vrouw juist eens pakken wou, met &apos;n plotselinge impulsie om &apos;t lieve kopje tusschen zijn handen te nemen.
+
+<p>&bdquo;Soo, soo, soo.... heb ik al die tijd geslapen? Weet je waar ik nou aan dacht toen &apos;k indutte?....&rdquo;
+
+<p>&bdquo;Nee, dat kunnen we moeielijk raden.&rdquo;
+
+<p>&bdquo;Als &apos;t &apos;n jongen is, mos j&apos;m Mozes noemen, naar je oom. Als je dat doet.... komt Mozes in me testament&rdquo;....
+
+<p>&bdquo;We wouën &apos;m Dirk noemen, tante, naar Dora&apos;s vader&rdquo;....
+
+<p>.... &bdquo;Soo, soo.... dat docht ik wel.... Mozes is &apos;n jodennaam hè? Da-vin-je leelijk?&rdquo;
+
+<p>&bdquo;Welnee tante, da&apos;s gelijk.&rdquo;
+
+<pb id=pb87 n=87 facs="f:090"><p>&bdquo;En z&apos;n permitswe<note n=1>Joodsche belijdenis.</note> laat j&apos;m zeker ook niet doen?&rdquo;
+
+<p>&bdquo;Vin-je niet tante, da-we maar niet zoo vooruit moesten spreken. &apos;t Kan even goed &apos;n meisje zijn.&rdquo;
+
+<p>&bdquo;Ja maar Maxlief....&rdquo;
+
+<p>&bdquo;Hoor eens tante, doe m&apos;t pleizier en laat dat rusten! Voor eens en voor altijd zeg ik je, dat mijn kinderen in géen geloof opgevoed worden. Wat ze later zelf willen doen, daar zal ik ze d&apos;r vrijen wil in laten. Da&apos;s &apos;t laatst, da&apos;k over die kwestie spreek!&rdquo;
+
+<p>&bdquo;Wo keen Glauben da keen Segen&rdquo; merkte &apos;t vrouwtje pruttelend op, een variante op &apos;t zelfde gezegde van mama Daanders.
+
+<p>&bdquo;Hoe vin je d&apos;r?&rdquo; had Max gevraagd, toen ze gearmd naar huis gingen.
+
+<p>Ze zweeg.
+
+<p>Dat ontstemde hem.
+
+<p>En den heelen avond was ze erg stil, <pb id=pb88 n=88 facs="f:091">zweemde er iets van &apos;n afkeer in haar, tegen de tante, die ze &apos;n nare, oude jodin vond...
+
+<milestone unit=tb>
+
+<p>&bdquo;Waar is m&apos;n vrouw, Betje?&rdquo;
+
+<p>&bdquo;Mevrouw leit te bed, heit &apos;t benauwd. Ben blij dat u kompt. D&apos;r is ook nog &apos;n boodschap geweest van... hoe hiette ze ook weer!... nou de naam staat op &apos;t leitje.... as dat u direk kommen mot, dokter.&rdquo;
+
+<p>&bdquo;Zoo.... goed.... dank je!&rdquo;
+
+<p>In &apos;t groote ledekant, onder den hoog gespannen hemel, lag ze. &apos;t Gezichtje wit als krijt, blauwe kringen onder de oogen. Ze had juist een neusbloeding gehad, hield krampachtig &apos;n rood gekleurden zakdoek vast.
+
+<p>Met groote innigheid zette hij zich bij &apos;t bed en verwarmde haar eene handje tusschen de zijne.
+
+<p>&bdquo;M&apos;n lieve vrouwtje....&rdquo;
+
+<p>&bdquo;Ben je daar Max, ben je daar?&rdquo;
+
+<p>&bdquo;Ik, lieveling, ik...&rdquo;
+
+<p>&bdquo;Blijf bij me, ga niet meer weg!&rdquo;
+
+<pb id=pb89 n=89 facs="f:092"><p>&bdquo;&apos;k Moet nog één oogenblik de deur uit, dan blijf ik thuis.&rdquo;
+
+<p>&bdquo;Nee, nee, blijf hier.... &apos;k ben zoo angstig alleen. Ach goeje God, goeje God, &apos;k geloof da&apos;k dood ga.&rdquo;
+
+<p>&bdquo;Hou je bedaard, Doortje. Wees nu m&apos;n sterk vrouwtje.... huil nu niet....&rdquo;
+
+<p>.... &bdquo;D&apos;r gaan toch zoo&apos;n boel vrouwen dood, als &apos;t kind komt... dat heb ik zelf gelezen.... dat-geloof ik...&rdquo;
+
+<p>&bdquo;Wees niet kinderachtig. Ik heb je toch al gezegd, dat zulke populaire boekjes speculeeren op zwakke gestellen... Gekke meid, je eigen man is toch dokter en nog wel een <hi lang=la>cum laude</hi>... Lach nu weer, toe!....&rdquo;
+
+<p>&bdquo;&apos;k Ben bang om dood te gaan.... vreeselijk bang....&rdquo;
+
+<p>&bdquo;Anders ben je zoo&apos;n dapper wijfje en nu denk j&apos;an malligheden, kom, kom!&rdquo;
+
+<p>Ze richtte zich op en borg &apos;t beschreide gezichtje aan zijn schouder.
+
+<p>&bdquo;Laat moeder hier komen, Max.... dan&apos;s <pb id=pb90 n=90 facs="f:093">alles goed.... dan ben &apos;k niet bang meer....&rdquo;
+
+<p>&bdquo;Maar dat gaat toch niet lieveling. Ze zal niet willen na al wat gebeurd is.&rdquo;
+
+<p>&bdquo;Dat zal ze wel, dat zal ze wel!&rdquo;
+
+<p>&bdquo;Doortje, wees nu verstandig. Je weet toch da&apos;k alles heb gedaan om je vader te verzoenen. Hoe wil je nu da-&apos;k je moeder hier breng?&rdquo;
+
+<p>&bdquo;Z&apos;is al hier geweest, éens, &apos;n maand geleden.&rdquo;
+
+<p>&bdquo;Wat zeg je!&rdquo;
+
+<p>&bdquo;&apos;k Heb &apos;t je nooit durven zeggen.&rdquo;
+
+<p>&bdquo;Dat was niet mooi! Geheimen voor me te hebben.... foei!&rdquo;
+
+<p>&bdquo;Ben j&apos;r boos om?&rdquo;
+
+<p>&bdquo;Daarom niet, maar dat j&apos;t me niet gezegd heb.... da&apos;s niet mooi.&rdquo;
+
+<p>&bdquo;Als ze hier was, Max.... bij de bevalling, zou &apos;k zoo gerust zijn.&rdquo;
+
+<p>&bdquo;Wil &apos;k haar dan schrijven?&rdquo;
+
+<p>&bdquo;Vader wou ook wel goed worden, als....&rdquo;
+
+<p>.... &bdquo;Als?....&rdquo;
+
+<p>&bdquo;Wor je niet boos?&rdquo;
+
+<p>&bdquo;Nee m&apos;n schatje.&rdquo;
+
+<pb id=pb91 n=91 facs="f:094"><p>&bdquo;Als....&rdquo;
+
+<p>&bdquo;Nu is &apos;t zoo&apos;n geheim?&rdquo;
+
+<p>&bdquo;Wor je heusch niet boos?&rdquo;
+
+<p>&bdquo;Maar kindlief, wat &apos;n ernst!&rdquo;
+
+<p>&bdquo;Als.... als.... &apos;t kind gedoopt wordt....&rdquo;
+
+<p>&bdquo;Zoo.&rdquo;
+
+<p>&bdquo;Dat zei moeder.&rdquo;
+
+<p>&bdquo;Moest ze daàrvoor hier komen?&rdquo;
+
+<p>&bdquo;Wor nu niet boos, je heb &apos;t me beloofd.&rdquo;
+
+<p>&bdquo;Dora.... verlang jij &apos;t ook.... wat je vader wil?&rdquo;
+
+<p>&bdquo;Nee Max, nee!.... &apos;t Is &apos;n dwaasheid.... &apos;k Had &apos;t heelemaal niet an je moeten overbrengen.... Toe, hou of &apos;k &apos;t je niet gezegd heb.... Nee, &apos;k zal &apos;t nooit willen, nooit!&rdquo;
+
+<p>&bdquo;Je hebt me pijn gedaan, Dora....&rdquo;
+
+<p>&bdquo;Max!&rdquo;
+
+<p>&bdquo;We waren opweg gelukkig te worden.... Gedoopt wordt &apos;t kind niet!&rdquo;
+
+<p>&bdquo;Ja, ja, je hebt gelijk.... Lach weer tegen me.... zoen me....&rdquo;
+
+<pb id=pb92 n=92 facs="f:095"><p>&bdquo;Doortje, als God ons &apos;n kind geeft, krijgt &apos;t géén geloof.... geen ander misschien dan dat in God!.... Dat zweer ik je bij m&apos;n liefde.... Als &apos;t kind wèer moet opgeleid worden in zoo&apos;n dwangbuis..... dan had ik liever, dat..... dat....&rdquo;
+
+<p>Hij hield zich in. &apos;t Bleeke kopje viel op &apos;t kussen terug. Zoo&apos;n uitdrukking van passie en wilskracht had ze nog nooit op zijn gezicht gezien. Even was &apos;t stil in de kamer.
+
+<p>&bdquo;Max!....&rdquo;
+
+<p>&bdquo;Zei je iets?....&rdquo;
+
+<p>&bdquo;Max.... hou je nog évenveel van me?.... &apos;k Ben eigenlijk te dom voor jou....&rdquo;
+
+<p>&bdquo;Of &apos;k van je hou!....&rdquo;
+
+<p>&bdquo;Zeg &apos;t me nog eens....&rdquo;
+
+<p>.... &bdquo;Of &apos;k van je hou, m&apos;n Doortje! Of &apos;k van je hou? Als van God.... Maar laat er nooit meer zóo iets tusschen ons voorvallen.... dat werkt....&rdquo;
+
+<p>Ze liet hem niet uitspreken, sloeg de armen <pb id=pb93 n=93 facs="f:096">om zijn hals. Zoo bleven zij zitten in &apos;t schemerdonker, bij de speelsche lichtflikkering van den hoogopvlammenden haard.
+
+<milestone unit=tb>
+
+<p>&bdquo;Hé, bè-jij daar Aby? Dat doet m&apos;n enorm pleizier?&rdquo;
+
+<p>&bdquo;Je vrouw wel?&rdquo;
+
+<p>&bdquo;&apos;t Kon beter. Z&apos;is licht ongesteld.... Erg zenuwachtig, heel erg....&rdquo;
+
+<p>&bdquo;Zoo, dat spijt me. Ja, dat heb je meer bij jonge vrouwen, niet? Zeg doe m&apos;t pleizier en draai dien doodskop eens om. Jakkes wat &apos;n versiering.&rdquo;
+
+<p>&bdquo;Is &apos;t zóo goed, Hamlet?&rdquo;
+
+<p>&bdquo;Spot maar! &apos;k vin &apos;n doodskop &apos;n beroerd gezicht. Hoef j&apos;r elk oogenblik an herinnerd te worden, dat je oòk moet uitstappen?.... &apos;k Was wel eens meer komen oploopen, maar &apos;k heb &apos;t verduiveld druk. &apos;k Heb al de klanten van m&apos;n ouwe heer gehouën. Dat was &apos;n bof voor zoo&apos;n jongen advocaat!&rdquo;
+
+<p>&bdquo;&apos;k Ben &apos;n paar maanden geleje nog op &apos;t <pb id=pb94 n=94 facs="f:097">kerkhof geweest.... D&apos;r staat &apos;n mooie steen op &apos;t graf.&rdquo;
+
+<p>&bdquo;Ja, dat wou moeder. En die wou &apos;m ook bij de joden hebben. Nou, in die dagen verzet je j&apos;r niet tegen, ofschoon jij weet hoe hij over alles dacht.&rdquo;
+
+<p>&bdquo;Maakt de ouwe vrouw &apos;t goed?&rdquo;
+
+<p>&bdquo;Zwakkies.... zwakkies.&rdquo;
+
+<p>&bdquo;Hindert je iets, dat j&apos;r zoo betrokken uitziet?&rdquo;
+
+<p>&bdquo;Hinderen, hinderen is &apos;t woord niet, maar toch hè-&apos;k van morgen &apos;n onaangenaam ding gehad, iets dat me nooit in m&apos;n praktijk is overkomen.&rdquo;
+
+<p>&bdquo;Wel?&rdquo;
+
+<p>&bdquo;Discretie, niet?&rdquo;
+
+<p>&bdquo;Natuurlijk, je kent me.&rdquo;
+
+<p>&bdquo;Daar was de jonge Van Oppen bij me....&rdquo;
+
+<p>.... &bdquo;Die verloopen ploert?&rdquo;
+
+<p>&bdquo;Juist! Dat ventje met z&apos;n bleeke gezicht en z&apos;n rooje snorretje....&rdquo;
+
+<pb id=pb95 n=95 facs="f:098"><p>&bdquo;Had-ie weer wat an &apos;t handje?&rdquo;
+
+<p>&bdquo;Hij wou zijn vader vervolgen!&rdquo;
+
+<p>&bdquo;Wablief? Z&apos;n vader?&rdquo;
+
+<p>&bdquo;Precies! &apos;k Zal je &apos;t fijne vertellen.... &apos;n beroerde historie... De ouwe Van Oppen was getrouwd, net als jij, met een christenvrouw...&rdquo;
+
+<p>&bdquo;Zoo dat wist ik niet!&rdquo;
+
+<p>&bdquo;Z&apos;is allang dood. D&apos;r zijn maar weinig lui die &apos;t weten... Nu komt die aap, die kwajongen, die pas meerderjarig geworden is, bij me. &apos;n Schooier van &apos;t eerste water! Bij z&apos;n vader mag-ie niet meer an huis komen, na die vuile historie met de dochter van... affijn, dat weet je... Nou, dat-ie z&apos;n moeders erfdeel per deurwaardersexploit wil opeischen da&apos;s zijn zaak. Daar zou &apos;k niet over gevallen zijn. Jouw vak en &apos;t mijne brengen nu eenmaal lamme dingen mee,.... maar raad eens wat-ie me zegt?&rdquo;
+
+<p>&bdquo;Nou?&rdquo;
+
+<p>&bdquo;Als je &apos;t hoort zou je zoo&apos;n kwajongen....&rdquo;
+
+<pb id=pb96 n=96 facs="f:099"><p>&bdquo;Wat zei-die?&rdquo;
+
+<p>.... &bdquo;&apos;k Wil d&apos;ouwe jood thuis de koorts op z&apos;n lijf jagen....&rdquo;
+
+<p>&bdquo;Heeft-ie dát gezegd?&rdquo;
+
+<p>&bdquo;Wat zeg j&apos;r van?&rdquo;
+
+<p>&bdquo;&apos;t Is &apos;n laagheid! Bah!... Wist-ie dat jij ook &apos;n jood bent?&rdquo;
+
+<p>&bdquo;Da-geloof &apos;k niet. Maar da&apos;s &apos;t minste. Verbeel je dat &apos;n zoon zoo over z&apos;n vader spreekt!&rdquo;
+
+<p>&bdquo;&apos;t Is verregaand!&rdquo;
+
+<p>&bdquo;En weet je hoe &apos;t komt?&rdquo;
+
+<p>&bdquo;Wat?&rdquo;
+
+<p>&bdquo;Wel die woorden?&rdquo;
+
+<p>&bdquo;De kwajongen is slecht opgevoed....&rdquo;
+
+<p>&bdquo;Nee, daar zit &apos;t &apos;m niet! De familie heeft net zoolang getamboureerd, toen de aap geboren werd, tot Van Oppen om van &apos;t gezanik af te wezen, &apos;t kind protestant liet worden.&rdquo;
+
+<p>&bdquo;Dan is &apos;t z&apos;n eigen schuld! Dat zou bij mij niet kunnen gebeuren.... Dora is veel <pb id=pb97 n=97 facs="f:100">te verstandig... &apos;k Zou me liever voor m&apos;n kop schieten....&rdquo;
+
+<p>&bdquo;O bij jou is zoo iets natuurlijk niet denkbaar. Maar toch zie je, dat zoo&apos;n gemengd huwelijk wel eens &apos;n nasleep hebben kan!&rdquo;
+
+<p>&bdquo;Malligheid.... Zou j&apos;n christenvrouw nemen, als j&apos;r op verliefd werd?&rdquo;
+
+<p>&bdquo;&apos;k Wor niet verliefd.&rdquo;
+
+<p>&bdquo;Nu ja, dat cynisme ken &apos;k.... maar gesteld &apos;t geval.&rdquo;
+
+<p>&bdquo;&apos;t Onmogelijke voor &apos;n oogenblik aangenomen.... misschien ja... maar &apos;k zou toch altijd bang zijn, dat m&apos;n vrouw m&apos; op d&apos; een of anderen dag m&apos;n afkomst verweet....&rdquo;
+
+<p>&bdquo;Wat &apos;n kleingeestige opvatting!&rdquo;
+
+<p>&bdquo;&apos;t Gebeurt meer.&rdquo;
+
+<p>&bdquo;Onzin.... &apos;k Kan me in zoo iets niet verplaatsen.... Zoo iets zou me voor m&apos;n leven kapot maken.... Wat heb jij toch altijd &apos;n cynische praatjes!.... Kom laten we van dat onderwerp afstappen. Blijf je bij ons eten vanmiddag?.... We hebben vischdiner.&rdquo;
+
+
+
+
+
+<pb id=pb98 n=98 facs="f:101">
+<div1 id=ch4 n=IV>
+<head>IV.</head>
+
+
+<p>Naarmate &apos;t tijdstip der bevalling naderde, greep er eene groote verandering in Dora plaats, een verandering, die zich scherp op &apos;t vermagerde gezichtje afspiegelde. Elken dag werd ze geagiteerder, met buien van nerveuse prikkelbaarheid. Zonder &apos;t te laten blijken was de jonge dokter in voortdurende onrust. De man van wetenschap, die zoo dikwijls koelbloedig en zeker in ziektegevallen optrad, had nu oogenblikken, dat hij al zijn weten verwenschte, dat hij zich de akeligste complicatiën voor den geest haalde, zich &apos;t ergste voorstelde. Dora&apos;s opgewondenheid verontrustte hem. Ze had uren, dat ze naar hem zat te luisteren <pb id=pb99 n=99 facs="f:102">en bij &apos;t doen van &apos;n vraag opschrikte, alsof ze aan andere dingen dacht. Midden in &apos;n gesprek kon ze stil worden, met droomerige oogen voor zich uitkijken en plotseling weer ontwaken, met een vreemd iets over zich, alsof ze zich moest bezinnen, waar ze was. Ze at weinig, klaagde over duizeligheden, schrikte van &apos;t geringste geluid, kon driftig uitvallen over &apos;n kleinigheid en murmureeren over nietigheden, dat Max dikwijls ineenkromp van medelijden. Voortdurend trachtte hij haar op te wekken, om met hem te wandelen, maar ze toonde zich lusteloos, hangerig, werd gauw moe, klaagde over pijn in de leden en werd knorrig als hij verstandig met haar wilde praten.
+
+<p>Was de jonge man afwezig, dan bleef ze in haar stoel zitten, met een angstig, huiverig denken in zich. &apos;t Bloed steeg haar warm naar &apos;t hoofd en ze liet de meid binnenkomen, om niet alleen te zijn. Voelde ze zich wat opgewekt, dan liep ze in &apos;t tuintje, soezerig rondkijkend, schuw voor &apos;t felle daglicht.
+
+<pb id=pb100 n=100 facs="f:103"><p>Een paar keer was de stiefmoeder angstig komen binnenvallen, &apos;t jonge vrouwtje zenuwachtiger makend door haar vrees, dat Daanders achter die bezoeken komen zou. Ze deed veel vragen, met de nuchtere nieuwsgierigheid, de onbeholpen rumoerigheid van iemand, die nog nooit &apos;n bevalling meegemaakt heeft, duizend raadgevingen opdreunt, duizend bijzondere inzichten heeft. De laatste maal kwam ze juist uit de kerk en ontmoette Max in de huiskamer. Hartelijk, joviaal had hij haar begroet en daardoor onmiddellijk de stijve spanning weggenomen, die anders &apos;t gevolg is van zoo&apos;n onverwacht samentreffen.
+
+<p>Toen ze weg was, vond Max haar bijbeltje op tafel liggen.
+
+<p>&bdquo;Je moeder heeft iets vergeten,&rdquo; zei hij lachend: &bdquo;geef &apos;t haar terug als ze weer komt. Je kunt &apos;t nu moeilijk laten brengen.&rdquo; Dora had &apos;t roodvergulde boekje weggesloten. Een paar dagen later kwam &apos;t haar toevallig in handen. Met de nieuwsgierigheid van <pb id=pb101 n=101 facs="f:104">&apos;n kind, dat iets vindt uit vroeger jaren, had ze &apos;t gouden slootje opengemaakt, was begonnen te lezen, eerst glimlachend, toen meer ernstig.... D&apos;r stonden toch mooie dingen in.... ware dingen.
+
+<p>Ze bleef er zoo in verdiept, dat Max voor haar stond eer ze &apos;t wist.
+
+<p>&bdquo;Lees jij in den bijbel?&rdquo;... had hij ongeloovig gevraagd.
+
+<p>&apos;t Boekje knipte dicht, dat de bladen verfrommelden....
+
+<p>... &bdquo;O God, wat doe-je me schrikken!...&rdquo;
+
+<milestone unit=tb>
+
+<p>De baker was &apos;n logge, vette vrouw met groote, stille bewegingen. Ze vulde de huiskamer met haar dikke lichaam, breed uitzittend, waar ze neerviel. De handen gleden over de lompe knieën, in een flegmatieke kromming van den breeden rug. De vleezige mond zei zoete dingetjes, zachtknorrende opmerkingen, gepeperde stads-schandaaltjes, vervelend-aaiende raadgevingen. Ze poseerde <pb id=pb102 n=102 facs="f:105">met de deftigheid eener bejaarde matrone, voedend &apos;t groote lijf met egoïste schrokkigheid, als &apos;t verwende troetelkind van &apos;n paar honderd onrustige kraamvrouwen. Met haar komst kwam &apos;n stille gemoedelijkheid in &apos;t jonge huishouden, een zacht loopen op de trappen en in de gangen, &apos;n eerbiedige bedaarde afwachting van &apos;t kind.
+
+<p>Op een dag was ze met Max alleen. Veel eerbied voor jonge dokters had ze niet. Ze kon jeugdige geneesheeren niet best zetten, met &apos;t ingeworteld vooroordeel van &apos;n ouwe vrouw, die door al wat ze meegemaakt heeft, alleen nog ontzag voelt voor konventioneele deftigheid en gemaniereerde ouderwetschheid.
+
+<p>&bdquo;&apos;k Heb d&apos;r &apos;n zwaar hoofd in,&rdquo; zei ze, diepzinnig &apos;t gladde hoofd schuddend.
+
+<p>&bdquo;&apos;n Zwaar hoofd!.... Waarom?&rdquo; De vraag werd driftig gedaan. De opmerking van de baker sloot te nauwkeurig met zijn eigen gedachten van de laatste weken.
+
+<pb id=pb103 n=103 facs="f:106"><p>&bdquo;Omdat ik d&apos;r &apos;n zwaar hoofd in heb...&rdquo;
+
+<p>&bdquo;Omdat! Omdat!... Waarom?&rdquo;
+
+<p>&bdquo;&apos;t Is m&apos;n 241<hi rend=sup>ste</hi> geval, maar &apos;k hè-ze nog zeldzaam zoo onrustig gezien. Je mag d&apos;r niet zelf behandelen, hoor!...&rdquo;
+
+<p>&bdquo;Da-weet &apos;k wel, maar....&rdquo;
+
+<p>&bdquo;Ze prakkizeert al maar over dood gaan. En da&apos;s &apos;n kwaje...&rdquo;
+
+<p>&bdquo;Als &apos;t maar voorbij is....&rdquo;
+
+<p>&bdquo;As... as... as is verbrande turf met permissie! Ze heit me gezegd, da ze heelemaal gerust zou zijn als d&apos;r moeder....&rdquo;
+
+<p>&bdquo;Ja, ja, dat weet ik ook!... Je moet m&apos;n vrouw maar gerust zien te stellen, d&apos;r niet zoo an d&apos;r gedachten overlaten.&rdquo;
+
+<p>&bdquo;Je hoef mijn niks te leeren. &apos;k Ben ook niet van gister!... Ik zeg, dat as d&apos;r moeder niet kompt.... nee, waarachtig dan ben je niet verantwoord. &apos;t Is zooveel as &apos;n fieks idee van d&apos;r...&rdquo;
+
+<p>&bdquo;Hum!&rdquo;
+
+<p>&bdquo;&apos;t Is altijd leelijk as ze prakkizeeren over <pb id=pb104 n=104 facs="f:107">iets, as &apos;t zoover is. Daar hè-je mevrouw van Stralen, &apos;n goed mensch, &apos;n goeje dienst van me geweest, veel afval... affijn die is d&apos;r in gebleven, al maar door geprakkizeerd over d&apos;r man, die &apos;n bloedspoeging gekregen had...&rdquo;
+
+<p>&bdquo;Als je zulke gekke dingen maar niet zegt, waar m&apos;n vrouw bij is!&rdquo;
+
+<p>&bdquo;Wel God beware.... &apos;t Is m&apos;n 241<hi rend=sup>ste</hi>!... God beware!&rdquo;
+
+<milestone unit=tb>
+
+<p>Driftig draaide Max op zijn stoel. &apos;t Zemelend gekakel der baker dreunde nog in zijn ooren. Even peinsde hij. Toen schreef hij in eens door.
+
+<p>.... &bdquo;Waartoe die verdere vijandschap? Dora&apos;s zenuwachtige toestand verontrust me. Laat mama bij ons komen logeeren. Is het nu niet beter, waardiger voor ons beiden, die ongelukkige geloofskwestie ter wille van Dora terzij te laten? &apos;k Geef U mijn woord van eer, dat ik &apos;t aan mijn kinderen op den dag hunner meerderjarigheid zal overlaten, wat ze wenschen te doen....&rdquo;
+
+<pb id=pb105 n=105 facs="f:108"><p>&apos;s Avonds lag er in Max&apos; prullenmand een nijdig verfrommeld briefje: Daanders&apos; groote hanepooten:
+
+<p>.... &bdquo;Laten we elkaar <hi>goed</hi> verstaan. Kinderen van een Israëliet, worden overal als Joden beschouwd. Nu &apos;t, tegen mijn wil, zoover gekomen is, zal ik de verzoening van mijn kant&mdash;dus oòk die van Dora&apos;s moeder&mdash;uitsluitend afhankelijk stellen van uwe pertinente verklaring, dat &apos;t kind gedoopt wordt. Ontvang ik die verzekering nog heden, dan is de zaak in orde en zullen wij voor &apos;t vervolg de burgerlijke beleefdheid tegenover elkander in acht nemen....&rdquo;
+
+<p>Er werd géén antwoord bij den houthandelaar bezorgd. De dokter had &apos;t papier woedend weggesmeten.
+
+<milestone unit=tb>
+
+<p>In een verschrikkelijke opgewondenheid liep de jonge man in zijn kamer rond. Al zijn zenuwen waren gespannen. Soms als er een geluid uit &apos;t andere vertrek kwam, stokte zijn <pb id=pb106 n=106 facs="f:109">adem, bleef hij hijgend luisteren met den deurknop in de hand. Was &apos;t stil, dan hervatte hij zijn koortsachtige wandeling, die hem duizelig maakte; stond af en toe stil voor de photographieën aan den wand, waarvan de omtrekken in een nevel voor zijn oogen schemerden, of bleef met gescherpte opmerkzaamheid naar &apos;n detail staren, dat hem vroeger nooit was opgevallen. Dan zenuwachtig-gejaagd stapte hij verder, drukte &apos;t gloeiend voorhoofd tegen de ruiten, zag de voorbijgangers voortsnellen, tot het glas wit van damp werd; luisterde half bewusteloos naar &apos;t leven buiten, &apos;t harde gelui der trams en rukte zich weer plotseling weg van die plaats, dronk groote teugen cognac uit een glas op de tafel, bladerde in een boek, waarvan de lettertjes als een zwarte klit voor z&apos;n oogen wriemelden, schrikte weer op, koud, huiverig.... voelde zich gebroken, zonder weerstandsvermogen.
+
+<p>&apos;t Visioen van zijn vrouwtje, dat al sedert dien morgen gemarteld werd, spookte hem <pb id=pb107 n=107 facs="f:110">door &apos;t hoofd, vervolgde, pijnigde hem. Wel een paar dozijn keer was hij de kamer uitgeweest, naar beneden, in de huiskamer, had in de keuken een kop koffie gedronken, &apos;t gebabbel van de meid aangehoord, had zich geërgerd, dat hij zoo kinderachtig was en &apos;n volgend oogenblik was &apos;n nieuwe angstgolf naar zijn hoofd gestegen.
+
+<p>&bdquo;Ben je daar Kremer?....&rdquo;
+
+<p>&apos;t Was de oude collega, die snel binnentrad. Max keek hem half verwilderd aan.
+
+<p>&bdquo;Hoe vin-j&apos;r?....&rdquo;
+
+<p>&bdquo;Ze lijdt erg. &apos;k Ben bang voor &apos;n complicatie.... Ze ijlt &apos;n beetje.... roept telkens om haar moeder. Die moet hier komen, oogenblikkelijk.... &apos;k Wacht &apos;t kind tegen den avond.&rdquo;
+
+<p>&bdquo;<hi rend=ex>Moet</hi> haar moeder hier komen?&rdquo;
+
+<p>&bdquo;We begrijpen elkander, collega.... &apos;k hoef voor jou niets te verbergen.... &apos;t Is &apos;t eenig kalmeerend middel.&rdquo;
+
+<p>&bdquo;We zijn gebrouilleerd met de familie....&rdquo;
+
+<pb id=pb108 n=108 facs="f:111"><p>&bdquo;Dan moet &apos;t <foreign lang=fr>coûte qui coûte</foreign> bijgelegd worden.&rdquo;
+
+<p>&bdquo;Da&apos;s niet mogelijk....&rdquo;
+
+<p>&bdquo;Niet mogelijk?&rdquo;
+
+<p>&bdquo;Neen.&rdquo;
+
+<p>&bdquo;Enfin.... ik wil niet in je familieaangelegenheden treden, maar je kent nu mijn opinie.... Tot van avond....&rdquo;
+
+<p>&bdquo;Een oogenblik!.... &apos;t <hi rend=ex>moèt</hi> zeg-je?&rdquo;
+
+<p>&bdquo;In mijn oogen, ja, positief!&rdquo;
+
+<p>&bdquo;Dan zal &apos;t gebeuren.&rdquo;
+
+<p>&bdquo;Da&apos;s goed. Adieu.&rdquo;
+
+<p>&bdquo;Adieu.&rdquo;
+
+<p>Tien minuten later werd er bij Daanders aangescheld. Driftig scheurde de oude man &apos;t couvert open.
+
+<p>&bdquo;Klee je an en ga dadelijk naar Dora. Haast je wat!&rdquo;
+
+<p>Ze keek hem verbaasd aan.
+
+<p>&bdquo;.... &apos;t Kind zal gedoopt worden.... Zend m&apos;n boodschap als &apos;t afgeloopen is. Kom treuzel nou niet!....&rdquo;
+
+
+
+
+
+<pb id=pb109 n=109 facs="f:112">
+<div1 id=ch5 n=V>
+<head>V.</head>
+
+
+<p>&bdquo;Hoe voel je je vandaag, kind?&rdquo;
+
+<p>Ze zat gemakkelijk in een easy-chair. &apos;t Mooie kopje was bleek, maar de lippen waren al weer rood, terugkeerende gezondheid.
+
+<p>&bdquo;Goed, Max.... gelukkig!&rdquo;
+
+<p>&bdquo;Dan wou &apos;k eens ernstig met je spreken, Dora.... &apos;k heb er mee gewacht, tot je bij krachten was.... Morgen moet &apos;t kind gedoopt worden....&rdquo;
+
+<p>&bdquo;Zouden w&apos;r maar liever niet over spreken, Max.... &apos;k Vin &apos;t zoo pijnlijk.... &apos;k Ben er de schuld van, zonder m&apos;n wil.... dat weet je....&rdquo;
+
+<p>&bdquo;Herinner je je nog wa-&apos;k je zei... dien dag toen...&rdquo;
+
+<pb id=pb110 n=110 facs="f:113"><p>&bdquo;Dat weet &apos;k...&rdquo;
+
+<p>&bdquo;Zonder jouw wil... is &apos;t tòch gebeurd... &apos;k heb &apos;t niet durven weigeren.... &apos;k had dien dag in alles toegestemd.&rdquo;
+
+<p>&bdquo;An &apos;t gebeurde is nu toch niets meer te veranderen... wij blijven voor elkander wat we geweest zijn...&rdquo;
+
+<p>&bdquo;Nee, Dora! Als &apos;t morgen doorgaat.... is er iets vreemds tusschen ons gekomen... Dat mag niet! Dat wil ik niet!&rdquo;
+
+<p>&bdquo;Wil je niet?...&rdquo;
+
+<p>&bdquo;Dora... die dooping mag niet doorgaan!&rdquo;
+
+<p>&bdquo;Max!&rdquo;
+
+<p>&bdquo;&apos;k Ben gedwongen! &apos;t Is me afgeperst! Je vader heeft schandelijk....&rdquo;
+
+<p>... &bdquo;Max, ik bid je!&rdquo;
+
+<p>&bdquo;&apos;k Wìl &apos;t zeggen... &apos;t Weegt me als dieplood... Schandelijk heeft hij partij getrokken van de omstandigheden... dat was &apos;n laagheid!&rdquo;
+
+<p>&bdquo;Max, &apos;k wil niet dat je zóó over m&apos;n vader spreekt!&rdquo;
+
+<pb id=pb111 n=111 facs="f:114"><p>&bdquo;Is &apos;t niet waar?&rdquo;
+
+<p>&bdquo;Hij meende &apos;t goed.&rdquo;
+
+<p>&bdquo;Zeg jij dat?... Ben ik je dan vreemd geworden?&rdquo;
+
+<p>&bdquo;Toe Max, spreek zoo niet... Er is nu niets meer aan te veranderen!&rdquo;
+
+<p>&bdquo;Maar ik <hi>wil</hi> &apos;t veranderen! Geen van beiden hebben we &apos;t gewenscht! Als die doop doorgaat, zal m&apos;n eigen kind me hinderen!&rdquo;
+
+<p>&bdquo;Max! Max!&rdquo;
+
+<p>&bdquo;&apos;k Wil niet dat m&apos;n eenig ideaal zoo vertrapt wordt!&rdquo;
+
+<p>Hij werd hoe langer hoe heftiger. Weggedoken in haar stoel keek ze hem verwijtend aan. Ze had zich zoo behagelijk gevoeld in de laatste dagen, zoo weelderig. Ze was weer omringd geweest door de familie, waarvan ze een vol jaar gescheiden was, had over den doop van &apos;t kind niet nagedacht in haar roes van tevredenheid, in den terugkeer harer physieke kalmte. Ze was opgegaan, egoïst in haar kind, had met een tinteling <pb id=pb112 n=112 facs="f:115">van genot de oude bekende gezichten om &apos;t kraambed gezien, en nu stond hij voor haar, opgewonden, driftig, met &apos;n energie op z&apos;n gelaat, die haar angstig maakte. Zooals ze hem nu zag, met die trekken gemarkeerd door toorn, vond ze hem leelijk, met &apos;n sterke gelijkenis op z&apos;n tante.... &apos;n geaccentueerd jodentype...
+
+<p>&bdquo;Wat wou je doen?&rdquo; vroeg ze eindelijk, hard, onaangenaam.
+
+<p>&bdquo;An je vader schrijven da&apos;k m&apos;n woord verbreek!&rdquo;
+
+<p>&bdquo;Dat zul je niet, nooit!&rdquo;
+
+<p>&bdquo;Ik zal &apos;t, op m&apos;n woord!&rdquo;
+
+<p>&bdquo;Als je dat doet... Nee je zult &apos;t niet. Je hebt zelf gezien hoe blij hij met zijn kleinkind was...&rdquo;
+
+<p>&bdquo;Wil jij dan òok mijn zoon tegen me opzetten?&rdquo;
+
+<p>&bdquo;Je kunt je woord niet breken?&rdquo;
+
+<p>&bdquo;&apos;k Làch om dat woord! Ons heele geluk staat op &apos;t spel!&rdquo;
+
+<pb id=pb113 n=113 facs="f:116"><p>Langzaam wonden ze zich beiden op. Terwijl hij aan den eenen kant voelde, dat &apos;t niet ridderlijk was de belofte te verbreken, bruiste aan den anderen kant al zijn vrijzinnige denken, voelde hij dat de heele bodem van zijn huwelijksgeluk door die ellendige storing onder hem wegzonk. Daarbij kwam &apos;n haat tegen den ouden Daanders, die zich al die dagen in zijn huis genesteld had met een vernederende, afgemeten beleefdheid; die hem als &apos;n nul, als &apos;n iets, dat men dulden moet, behandeld had. In Dora begon &apos;t driftige temperament van haar vader te gisten. Met een trage willoosheid, overblijfsel van haar moeder worden, klampte ze zich aan &apos;t heden vast, vergat ze den idealist, zag ze nu alleen iemand van &apos;n ander geloof voor zich, iemand, die haar met geweld uit &apos;n heerlijke rust wakker schudde.... Ze keerde hem korzelig den rug toe.
+
+<p>.... &bdquo;Dora, we hebben nog nooit getwist. &apos;k Heb je alles toegegeven, maar de speelbal <pb id=pb114 n=114 facs="f:117">van je vader word &apos;k niet... &apos;k Schrijf hem nog vandaag, dat jij, nòch ik dien doop willen, dat we d&apos;r allebei tegen zijn, da-&apos;k &apos;t beloofd heb, toen jouw leven op &apos;t spel stond, dat hij billijk moet zijn.... Alles, behalve dàt! &apos;k Heb &apos;t geschreven in &apos;n halven waanzin.... &apos;k Wil geen vormendienst.... &apos;k <hi>wil</hi> &apos;t niet.... &apos;t kind zou dan even goed jood kunnen worden.... &apos;k wil geen vormen....&rdquo;
+
+<p>&bdquo;Als je dàt schrijft, zou &apos;k....&rdquo;
+
+<p>&bdquo;Zwijg!.... Later zul je me gelijk geven, &apos;k Tree op voor ons beiden!&rdquo;
+
+<p>&bdquo;Je zult &apos;t niet doen!&rdquo;.... Ze rees halverwegen op, rood van toorn.
+
+<p>&bdquo;Dora, je kent me nog niet!&rdquo;
+
+<p>&bdquo;Nee, zoo iets ha-&apos;k nooit van je gedacht!&rdquo;
+
+<p>&bdquo;Van mij gedacht? Van mij.... &apos;t is de streek van je vader&rdquo;....
+
+<p>.... &bdquo;&apos;n Streek?&rdquo;....
+
+<p>.... &bdquo;&apos;n Ignobele!&rdquo;
+
+<p>&bdquo;Wat jij gaat doen, is erger.... vuiler&rdquo;....
+
+<pb id=pb115 n=115 facs="f:118"><p>&bdquo;Dora!&rdquo;
+
+<p>.... &bdquo;Da&apos;s woordbreken.... Da&apos;s m&apos;n vader bedriegen.... Da&apos;s &apos;n jodenstreek!&rdquo; Verschrikt hield ze op.
+
+<p>&bdquo;Wat zei je?&rdquo; vroeg hij toonloos, ofschoon hij &apos;t&mdash;bitter, snijdend, als &apos;t gezegd werd&mdash;uitstekend verstaan had.
+
+<p>&bdquo;Max!&rdquo;
+
+<p>&apos;t Klonk als &apos;n bede om vergiffenis. Even keek hij haar aan, met groote, vreemde oogen. Toen ging hij heen.
+
+<milestone unit=tb>
+
+<p>Aan zijn lessenaar zat hij, &apos;t hoofd in de handen, keek machinaal naar den doodskop. De holle, puilende gaten, waar eens oogen bezield geleefd hadden, grijnsden hem met de hoekige kaken, toe. Sufferig, wezenloos telde hij de nerven, de naden, dacht aan de weggeteerde hersenen, tikte met zijn vinger tegen de leege doos, dat &apos;t gedempte echootjes gaf, dof klotste, alsof er op de deur geklopt werd. Hij lachte even, schamper, pijnlijk. Van de Aan zijn lessenaar zat hij, &apos;t hoofd in de handen, keek machinaal naar den doodskop. De holle, puilende gaten, waar eens oogen bezield geleefd hadden, grijnsden hem met de hoekige kaken, toe. Sufferig, wezenloos telde hij de nerven, de naden, dacht aan de weggeteerde hersenen, tikte met zijn vinger tegen de leege doos, dat &apos;t gedempte echootjes gaf, dof klotste, alsof er op de deur geklopt werd. Hij lachte even, schamper, pijnlijk. Van de <pb id=pb116 n=116 facs="f:119">drukke straat golfden schaterende geluiden, uitbarstend leven, door &apos;t geopende venster naar binnen. &apos;t Zonlicht viel in een schuinsche richting, met een speling van stofjes, &apos;n bewegelijk fladderen van kleine atomen er in. Met een hoofd, bonzend van drukkende pijn, bleef hij zitten. &apos;t Was of hij hoorde lachen, &apos;n vreemde klank, &apos;n krijschend iets, aanzwellend tot een galm, alsof de voegen van z&apos;n hoofd kraakten.... De ontvleeschte lippen van den doodskop gingen hooger op, ontblootend de gele tanden.... Hi! Hi! Hi! Ho! Ho!.... Hortende stootjes knapten door de beenen wanden; wild, kantig kraken; joelende pretjes, jodelgilletjes.... Vuurballetjes glommen in de oogkassen.... Hi! Hi! Hi!....
+
+<p>Toen stond hij op, lachte heesch mee.
+
+<milestone unit=tb rend=dots>
+
+<p>Den volgenden dag werd het kind gedoopt.
+
+
+<p rend=dateline>Mei 1892.
+
+
+
+
+
+
+
+
+<pb id=pb117 n=117 facs="f:120">
+</body>
+<back id=backmatter>
+<div1 id=ad1 type=Advertisement>
+<head>GOEDKOOPE UITGAVEN
+<lb>VAN H. J. W. BECHT.</head>
+
+
+<p>OP DEZELFDE WIJZE UITGEGEVEN ALS DIT BOEK, VERSCHEEN OOK:
+
+<p><hi rend=bold>SABBATH</hi> DOOR HERMAN HEIJERMANS <hi rend=sc>Jr.</hi>
+
+<p><hi rend=bold>TRINETTE</hi> DOOR HERMAN HEIJERMANS <hi rend=sc>Jr.</hi>, DERDE DRUK.
+
+<p><hi rend=bold>ALLEEN</hi> DOOR GUSTAF AF GEIJERSTAM.
+
+<p><hi rend=bold>VERWEGHE EN ZIJN VROUW</hi> DOOR C. P. BRANDT VAN DOORNE, TWEEDE DRUK.
+
+<p><hi rend=bold>MIJN KLEINE JONGEN</hi> DOOR CARL EWALD.
+
+<p><hi rend=bold>INGRID</hi> DOOR SELMA LAGERLÖF, 3<hi rend=sup>E</hi> DRUK.
+
+<p><hi rend=bold>VOORBIJGAANDE SCHEPEN IN DONKEREN NACHT</hi> DOOR BEATRICE HARRADEN, VIERDE DRUK.
+
+
+<p>DE PRIJS VAN ELK DER BOVENGENOEMDE FRAAIE BOEKWERKEN, WELKE TERECHT ALS KUNSTWERKEN VAN DEN EERSTEN RANG BEKEND ZIJN EN WAARVAN DAN OOK DUIZENDEN EXEMPLAREN VERKOCHT WORDEN, IS SLECHTS <hi rend=bold>75 CENTS</hi> INGENAAID EN <hi rend=bold>f1.&ndash;</hi> GEBONDEN IN PRACHTBAND ZIE DE RECENSIES HIERACHTER.
+
+
+
+
+<pb id=pb118 n=118 facs="f:121">
+<div1 id=ad2 type=Advertisement>
+<head>DE PERS OVER &bdquo;TRINETTE&rdquo;.</head>
+
+
+<p rend="indent(2em)"><hi rend=bold>WOLFGANG in de Nederl. Spectator.</hi>
+
+<p><hi rend=bold>Geen <hi rend=ex>symbolisme</hi> maar een schilderijtje in het genre der oud-Hollandsche schilderkunst. Het volksleven van nabij gezien. Geen Jan Steen, maar een Herm. Heijermans. Een novelle, uit het staal der waarheid gesmeed en Aan Frederik van Eeden gewijd.</hi>
+
+<p><hi rend=bold>Wie zoo schrijft, kan zeggen: &bdquo;ik ben er&rdquo;. En dat resultaat weer alleen verkregen door eenvoud en natuur, die zoo moeilijk te vinden sleutelzet van het probleem der kunst.</hi>
+
+
+<p rend="indent(2em)"><hi rend=bold>De Indische Mercuur.</hi>
+
+<p>Een meesterlijke schets der gewaarwordingen van een dorpsmeisje uit de omstreken van Brussel, dat onbewust verlangend is naar de genoegens der groote stad. Zij komt daar spoedig in betrekking en gaat weldra onder in den maalstroom van het haar vreemde leven. Het is als een reeks <foreign lang=fr>tableaux-vivants</foreign>, die voor ons oog voorbijtrekt, zoo meesterlijk zijn de beschrijvingen en ontledingen. <hi rend=bold>Enkele tafereelen blijven den lezer nog lang bij.</hi> Zoo bijv. de tocht naar Brussel ter gelegenheid der nationale feesten, het tooneel in het café-chantant, het doodsbed van Victorine enz. Leesgezelschappen zullen weldoen, zich dit boek aan te schaffen.
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Vaderland.</hi>
+
+<p>De geschiedenis van een dorpskind, dat te Brussel komt en op den verkeerden weg raakt, knap verteld en met groote oprechtheid, zonder een streven naar mooi doen, zonder conventie.... <hi rend=bold>Ten slotte nog dit: &bdquo;Trinette&rdquo; is geen lectuur voor jonge meisjes, maar daarom volstrekt niet een onzedelijk boek.</hi>
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Algemeen Handelsblad.</hi>
+
+<p>De schrijver heeft een aardigen kijk op de dingen. Hij teekent met enkele lijnen, doch ze staan op haar plaats en stellen, hetgeen weergegeven wordt, den lezer helder voor den geest. De beschrijving van het Brusselsch avondfeest is levendig en treffend. Aardig gedacht is de groote verbazing van een bedelares, die in een rijkelui&apos;s woning ziet, hoe iemand weigert van een der schotels te nemen.
+
+<p>Verbeeld je: weigeren!<corr sic="&rdquo;"></corr>
+
+
+
+
+
+<pb id=pb119 n=119 facs="f:122">
+<div1 id=ad3 type=Advertisement>
+<head>De Nederlandsche Pers over &bdquo;SABBATH&rdquo;.</head>
+
+
+<p rend="indent(2em)"><hi rend=bold>WOLFGANG in De Nederlandsche Spectator.</hi>
+
+<p>In zijn &bdquo;Sabbath&rdquo; geeft <hi rend=sc>Herm. Heijermans</hi> Jr. een natuurgetrouw beeld van de &bdquo;jodenbuurt&rdquo;, kort voor het intreden van den Sabbath op een heeten Augustus-namiddag, gevolgd door een dineetje in een voddenwinkel.
+
+<p>In hun vluchtige verschijning maar druk en snel beweeg grijpt de auteur iets kenmerkends van die joodsche figuren bij den kraag. Zoo de magere meid, die zuur koopt. Zoo de voddenkoopman Zelik, die met zijn &bdquo;as &apos;k tijd had ging &apos;k zwèmmen&rdquo; Bekkie doet schrikken. Zoo Zelik&apos;s moeder, met buiklijden geplaagd, die haar zoon beter kent, en zegt: &bdquo;laat &apos;m pràte&rdquo;.
+
+
+<p rend="indent(2em)"><hi rend=bold>De Tijdspiegel.</hi>
+
+<p>Als realistische schildering van een sabbatdag in de Jodenbreestraat is deze studie ongetwijfeld een zeldzaam knap stuk. De lezer waant zich met dit boek vóór zich midden in de Jodenbuurt; hij ziet en hoort het lawaai van de hokkende, elkaar verdringende karren en het roepen en schelden van de Joodjes, die in de stoffige benauwing der straat met bruin-vette tabaksmonden tegen elkaar staan te schreeuwen; hij ruikt het zuur en de komkommers, zwemmend in goudgelig vocht, en den smeulstank der doovekolen, waarop een ijzeren pot met lauw water en eieren staat te walmen. De typen van de mannen, vrouwen en Jodenkinderen zijn voortreffelijk. Ook de imitatie van de eigenaardige Joodsche uitdrukkingen, hunne taal, soms moeilijk verstaanbaar, is ongeëvenaard; men moet onder Joden geleefd hebben, om dat zóó te kunnen weergeven. Meesterlijk is ook de teekening van den sabbatavond ten huize van Zelik, wanneer ze zitten te smullen van Bekkie&apos;s soep&mdash;de sjabbessoep, &bdquo;fijne zoep, zoep om duizend jaren van te leve&rdquo;,&mdash;en hoe op den warmen Augustusavond de sabbatvrede zich oplost in de stille vrijerij van Zelik en Bekkie. <hi rend=bold>Inderdaad, Heijermans heeft met deze studie op &apos;t gebied van realistische beschrijvingskunst een meesterstuk geleverd.</hi>
+
+
+<p rend="indent(2em)"><hi rend=bold>De Nieuwe Rotterdamsche Courant.</hi>
+
+<p>De hoofdfiguren zijn Zelik en Bekkie, zijn behagelijke nicht, van wie hij zijne vrouw wil maken. Raak en geestig is Zelik&apos;s verliefddoen geteekend. Raak en geestig het geheele verhaal. Overal vòl &bdquo;atmosfeer&rdquo;. De vent die zijn goed beleenen komt, de kribbige oude moeder, Maupie, de googeme gast, we zien ze doen, we hooren ze praten.
+
+
+
+
+<pb id=pb120 n=120 facs="f:123">
+<div1 id=ad4 type=Advertisement>
+<head>De Nederlandsche Pers over &bdquo;Verweghe en zijn Vrouw&rdquo;.</head>
+
+
+<p rend="indent(2em)"><hi rend=bold>Nieuwe Rotterdamsche Courant.</hi>
+
+<p>Wie zoo vertelt, heeft wat te vertellen. Brandt van Doorne heeft in zijn &bdquo;geval&rdquo; het belangrijke gespeurd, dat er immers altoos zijn zal in <hi rend=ex>àlle</hi> menschelijke handelingen en toestanden, voor hem die deze toestanden en handelingen nieuw ziet, d. w. z. aanschouwt in den spiegel van eigen gevoel.&mdash;<hi rend=bold>Wat ons bij het nasoezen over ons bewonderingsgevoel even verwonderde, is van die bewondering juist de grond.</hi>
+
+
+<p rend="indent(2em)"><hi rend=bold>Van Nouhuijs</hi> in <hi rend=bold>Het Vaderland</hi>.
+
+<p><hi rend=bold>Ik vind dit knap, tevens gevoelig werk.</hi>
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Handelsblad.</hi>
+
+<p>Het is o. i. het beste wat deze schrijver ons nog heeft gegeven. De oude geschiedenis van een ouderen man, hertrouwd met een jongere vrouw die verliefd wordt op een jongmensch, is in &bdquo;Verweghe en zijn vrouw&rdquo;, volkomen waar, volkomen begrijpelijk verteld. De schrijver heeft zich in de eerste 50 bladzijden bijna uitsluitend met den man beziggehouden, met zijn argwaan, zijn denken wat hij doen zou als het waar was, dat zijn vrouw hem bedroog, zijn hopen dat het niet zoo is. Die bladzijden zijn o. i. bijzonder goed, de beste. Ieder woord om zoo te zeggen is er doordacht en eerst na nauwkeurige overweging neergezet. Maar ook in de vrouw heeft de schrijver zich goed ingedacht. En heel knap is zooals hij alles in dit kleine, eenvoudige boek terugvoert op het gevoel van die drie menschen. Mooi is ook weer het slot, haar bekentenis aan haar man. En dat alles is, gelooven wij, te danken aan de groote soberheid, waarmee het boek is geschreven, niets te veel en al wat noodig was om ons het lijden van deze menschen mee te doen leven.
+
+
+<p rend="indent(2em)"><hi rend=bold>De Oprechte Haarlemsche Courant.</hi>
+
+<p>Een edel boek, een treffend verhaal; knap, vlot, sober geschreven. En met een zeer goede, zedelijke strekking.
+
+
+<p rend="indent(2em)"><hi rend=bold>De Avondpost.</hi>
+
+<p>Een talentvol bearbeid boek, waarin het geval wordt behandeld van een man, die door zijn zeer jeugdige vrouw wordt bedrogen en haar, als zij hem haar ontrouw bekent, zonder eenig voorbehoud vergiffenis schenkt.
+
+
+<p rend="indent(2em)"><hi rend=bold>De Haagsche Courant.</hi>
+
+<p>Wat een prachtig stukje natuur heeft deze superieure artiest ons nu hiermee weer gegeven. <hi rend=bold>&bdquo;Verweghe en zijn vrouw&rdquo; is van een ontroerend, weemoedig mooi.</hi>
+
+
+
+
+<pb id=pb121 n=121 facs="f:124">
+<div1 id=ad5 type=Advertisement>
+<head>De Deensche Pers over &bdquo;Mijn kleine Jongen&rdquo;.</head>
+
+
+<p>&bdquo;<hi rend=bold>Mijn kleine Jongen</hi>&rdquo; is wel het glanspunt in de literatuur van dit jaar. <hi rend=bold>CARL EWALD</hi> gaf ons menig mooi boek, maar met &bdquo;<hi rend=bold>Mijn kleine Jongen</hi>&rdquo; heeft hij aller harten stormenderhand veroverd.
+
+<p rend="align(right)"><hi rend=bold>GEORGE BRANDES in de &bdquo;<foreign lang=da>Politiken</foreign>&rdquo;.</hi>
+
+
+<p>Dit boek zal <hi rend=bold>over de grenzen vliegen</hi>! Het is éenig in de Deensche literatuur.
+
+<p rend="align(right)"><hi rend=bold>Dagblad van Kopenhagen.</hi>
+
+
+<p>Wilt ge een teer, rein boekje lezen, dat u het eene oogenblik doet schateren, het andere oogenblik tot ernst stemt? Lees &bdquo;<hi rend=bold>Mijn kleine Jongen</hi>&rdquo;&mdash;het is <hi rend=bold>een meesterwerk</hi>!
+
+<p rend="align(right)"><hi rend=bold>Nieuwsblad voor Elseneur.</hi>
+
+
+<p>Hoe eenvoudig en toch krachtig! Hoe teer, zonder eenige sentimentaliteit! Waarlijk, <hi rend=bold>CARL EWALD overtrof hier zichzelf</hi>&mdash;zijn boek <hi rend=bold>&bdquo;Mijn kleine Jongen&rdquo; is een volmaakt kunstwerk</hi>.
+
+<p rend="align(right)"><hi rend=bold>Avondblad voor Jutland.</hi>
+
+
+<p>Het is te hopen, dat &bdquo;<hi rend=bold>Mijn kleine Jongen</hi>&rdquo; in alle talen vertaald en in alle landen gelezen wordt; het verdient dat dubbel en dwars.
+
+<p rend="align(right)"><hi rend=bold>Deensch Tijdschrift voor Literatuur.</hi>
+
+
+<p>Het is benijdenswaard, zulk een zuiver kunstwerk te kunnen schrijven.&mdash;&bdquo;<hi rend=bold>Mijn kleine Jongen</hi>&rdquo; zal altijd tot de standaardliteratuur blijven behooren.
+
+<p rend="align(right)"><hi rend=bold>GUSTAF AF GEIJERSTAM.</hi>
+
+
+
+
+<pb id=pb122 n=122 facs="f:125">
+<div1 id=ad6 type=Advertisement>
+<head>De Nederlandsche Pers over:
+<lb>&bdquo;Voorbijgaande Schepen in donkeren Nacht&rdquo;.</head>
+
+
+<p rend="indent(2em)"><hi rend=bold>De Spectator</hi> zegt o. a.:
+
+<p>Een wijs en geestig boekje, door welks onverbiddelijke tragedie de vonk des verstandigen levens gloort in somberen nacht.
+
+<p>Vele opmerkingen van den &bdquo;zonderling&rdquo; stemmen tot nadenken. &bdquo;Het is verwonderlijk hoeveel men leert, als men niet leest.&rdquo; (24) &bdquo;Als gij boeken schrijft,&rdquo; raadt hij het meisje aan, &bdquo;laat uwe personen (dan) nooit lange gesprekken met elkaar houden. In het werkelijke leven spreken de menschen geen vier bladzijden achtereen. En als gij twee verstandige menschen bij elkaar brengt, laat hen dan niet verstandig redeneeren. Dat doen verstandige menschen niet. Alleen de dommen denken dat zij altijd verstandig moeten praten.&rdquo; (139)
+
+<p>Waar &bdquo;zooveel wijsheid viel&rdquo;, &bdquo;smolt wijsheid ziel aan ziel&rdquo; van hem en haar te samen.
+
+<p>Toen kwam de dood, en het lied was uit.
+
+<p>Natuurlijk verdient een boekje met zooveel aristocratisch <hi rend=ex lang=fr>savoir-vivre</hi> een bijzondere vermelding.
+
+<p rend="align(right)"><hi rend=sc>Wolfgang.</hi>
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Handelsblad</hi> zegt o. a.:
+
+<p>Ook ons publiek zal dit boek, in goed Hollandsch vertaald, gaarne lezen: het is eenvoudig en lief geschreven en de schrijfster heeft het treffende in korte ontmoetingen van vreemden, die daarna weer voor altijd uit elkaar gaan, zeer goed geteekend, ook in den titel Voorbijgaande Schepen in donkeren Nacht.
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Vaderland</hi> zegt o. a.:
+
+<p>Het is in één woord <hi>een Juweeltje</hi>.
+
+
+
+
+<pb id=pb123 n=123 facs="f:126">
+<div1 id=ad7 type=Advertisement>
+<head>De Nederlandsche Pers over &bdquo;INGRID&rdquo;.</head>
+
+
+<p rend="indent(2em)"><hi rend=bold>De Kerkelijke Courant</hi>:
+
+<p>Weer hebben wij een zonderling en een mooi boek voor ons. Het is of de Zweedsche schrijfster droomen vertelt, zoo vrijmoedig schildert zij de vreemdste toestanden, en tegelijk heerscht zij over den mooien vorm en echt diep gevoel. Ingrid, bijna levend begraven en later met liefde en geduld den krankzinnige genezend, staat voor ons als de heldin uit een sprookje, maar een sprookje uit een rijk gemoed gevloeid.
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Vaderland</hi>:
+
+<p>De auteur van &bdquo;Gösta Berling&rdquo; is hier weer op haar eigenaardige wijze voor den dag gekomen en de mengeling van reëel en onreëel is haar uitnemend gelukt. <hi rend=bold>Dit boek heeft iets van een sprookje en is toch zoo gewoon menschelijk roerend.</hi> Een boek als &bdquo;Ingrid&rdquo; is een buitenkansje; de vertaling verdient warm te worden geprezen.
+
+
+<p rend="indent(2em)"><hi rend=bold>De Avondpost</hi>:
+
+<p>Wie <hi>Gösta Berling</hi> van de Zweedsche schrijfster Selma Lagerlöf heeft gelezen&mdash;een van de weinige boeken waarvan de herinnering ook na jaren levendig blijft&mdash;zal verlangend zijn, kennis te maken met haar jongste werk: <hi rend=bold>Ingrid</hi>, dat Margaretha Meijboom op zoo uitnemende wijze verdietschte. Niet minder dan van <hi rend=bold>Gösta Berling</hi> gaat er van dit wonderlijke sprookjesachtige verhaal een eigenaardige bekoring uit. Het vertelt van de zwerftochten van een waanzinnige door groote bosschen en uitgestrekte gemeenten, van de macht welke de muziek over zijne ziel heeft; van de demonen, van zijn waanzin, die hem geen rust gunnen, tot een jong meisje, &bdquo;Ingrid met de sterrenoogen,&rdquo; hen op de vlucht drijft.
+
+<p><hi rend=bold>Het is een dichtwerk van buitengewone waarde, deze verheerlijking van de alvermogende macht der liefde. Zulke hooge poëzie, naïef en diepzinnig tegelijk, kan slechts ontstaan in een land, waar de lucht nog vervuld is van sagen en legenden.</hi>
+
+
+
+
+<pb id=pb124 n=124 facs="f:127">
+<div1 id=ad8 type=Advertisement>
+
+<p><hi>Bij den Uitgever dezes verscheen mede</hi>:
+
+<p>KAMERTJESZONDE
+
+<p>HERINNERINGEN VAN ALFRED SPIER
+
+<p><hi rend=sc>DOOR</hi> HERM. HEIJERMANS <hi rend=sc>Jr.</hi>
+
+<p>Vijfde uitgave.
+
+<p>Prijs ingenaaid <hi rend=bold>&fnof;&nbsp;1.90</hi>; in prachtband <hi rend=bold>&fnof;&nbsp;2.50</hi>.
+
+
+<p rend="indent(2em)"><hi rend=bold>Het Algemeen Handelsblad.</hi>
+
+<p><hi rend=bold>Kamertjeszonde, Herinneringen van Alfred Spier, is, laat ons dit terstond zeggen, in het minst geen onzedelijk boek; integendeel, van wat men gewoonlijk onder onzedelijkheid verstaat, is dit boek geschikt den lezer een groote walging te geven.</hi> Maar wel is het, laat ons maar zeggen, een realistisch boek, in dien zin dat het een stukje werkelijkheid te zien geeft, voor het meerendeel afschuwelijk leelijk, heftig terugstootend, beschreven niet alleen zonder er eenigszins doekjes om te winden, maar getoond, men zou willen zeggen, naakter dan naakt. Het is misschien het ruwste boek dat wij ooit in handen gehad hebben.
+
+<p>Maar onzedelijk, neen.
+
+<p>Voor een deel is &bdquo;Kamertjeszonde&rdquo; bijzonder knap geschreven ook. Zeer mooi is de beschrijving van de verhouding tusschen twee menschen die elkaar werkelijk liefhebben, zij het dan ook dat die verhouding naar de thans bijna overal heerschende begrippen ongeoorloofd is; bijzonder goed ook ziet de schrijver het mooie in het spreken en bewegen van kleine kinderen.
+
+
+<p rend="indent(2em)"><hi rend=bold>De Nederl. Spectator.</hi>
+
+<p><hi rend=sc>Zola</hi> geëvenaard, zoo niet overtroffen.
+
+
+<p rend="indent(2em)"><hi rend=bold>Elseviers Maandschrift.</hi>
+
+<p>Dat talent is onbetwistbaar. Tusschen bladzijden waaruit de vunzige<corr sic=","></corr> realiteit u tegenwalmt, staan fragmenten van een hoog idealisme, geuit in de kalm-frissche bewoordingen van iemand, die zich, van zijn machtige zeggingskracht bewust, uit als een der grooten onder de woordkunstenaars. En de lezer van Spier&apos;s Herinneringen laat zich sleuren door het slijk van &apos;t nachtelijk Amsterdam, hij zit aan met walging waar gemeene wijven haar vuile woorden doen schetteren, hij rilt van afschuw, maar verzet zich niet als de auteur hem met een armzwaai hoog beurt boven al dat gedoe en laat zien dat zelfs in de café-chantant-vrouw het ideale niet behoeft onder te gaan, dat de man die zich, volgens de burgerlijke begrippen, heeft verslingerd &bdquo;aan zoo&apos;n mensch&rdquo; nog zijn enthousiasme voor <hi rend=bold>Kunst en Liefde</hi> kan behouden en vermag op te heffen haar die hem liefde schenkt na een leven van ontucht.
+
+
+
+</div1>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend="indent(2)"
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Posting
+
+[ ] Make sure dp-post@pgdp.net is cc-ed on upload
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
